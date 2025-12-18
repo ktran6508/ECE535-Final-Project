@@ -1,1 +1,15 @@
+[1] Brendan, McMahan H, et al. “Communication-Efficient Learning of Deep Networks from Decentralized Data.” ArXiv.org, 2016, arxiv.org/abs/1602.05629.
 
+[2] Li, Tian, et al. “Tilted Empirical Risk Minimization.” ArXiv.org, 17 Mar. 2021, arxiv.org/abs/2007.01162.
+
+[3] Mohri, Mehryar, et al. “Agnostic Federated Learning.” ArXiv.org, 2019, arxiv.org/abs/1902.00146. Accessed 20 May 2025.
+
+[4] alexbie98. “GitHub - Alexbie98/Fedavg: PyTorch Implementation of Federated Learning on MNIST.” GitHub, 2025, github.com/alexbie98/fedavg. Accessed 18 Dec. 2025.
+
+[5] litian96. “GitHub - Litian96/TERM: Tilted Empirical Risk Minimization (ICLR ’21).” GitHub, 2025, \url{github.com/litian96/TERM.}. Accessed 18 Dec. 2025.
+
+[6] YuichiNAGAO. ``GitHub -- YuichiNAGAO/Agnostic\_federated\_learning: Re-Implementation of Agnostic Federated Learning Presented at NIPS2019.'' GitHub, 2025. \url{https://github.com/YuichiNAGAO/agnostic_federated_learning}. Accessed 18 Dec. 2025.
+
+[7] “CIFAR-10 - Object Recognition in Images.” @Kaggle, 2025, www.kaggle.com/c/cifar-10/data. 
+
+[8] zalandoresearch. “Zalandoresearch/Fashion-Mnist.” GitHub, 15 Nov. 2020, github.com/zalandoresearch/fashion-mnist.
