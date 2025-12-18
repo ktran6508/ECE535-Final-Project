@@ -1,1 +1,1 @@
-
+The project deliverables include a complete research paper documenting the motivation, design, implementation, and evaluation of bias-aware federated learning methods. Additional deliverables consist of executable Python code for FedAvg, TERM, and AFL, processed experimental results, and visualization figures comparing convergence, accuracy, and fairness metrics across models and datasets.
