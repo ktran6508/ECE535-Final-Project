@@ -1,1 +1,1 @@
-
+The primary design goal is to analyze how data heterogeneity introduces bias in federated learning systems and to evaluate algorithmic approaches that mitigate this bias. The project aims to compare baseline FL performance with fairness-aware methods while maintaining reasonable convergence speed and overall accuracy across heterogeneous clients.
