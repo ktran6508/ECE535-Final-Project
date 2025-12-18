@@ -2,5 +2,5 @@
 
 - Members:
 Kevin Tran (34413888)
-Steven Tran
-Baffour Yeobah-Asare
+Steven Tran (33841825)
+Baffour Yeobah-Asare (33883701)
