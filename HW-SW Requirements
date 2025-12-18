@@ -1,1 +1,1 @@
-
+Experiments were conducted using a CUDA-enabled laptop to accelerate training. The software stack includes Python, PyTorch/TensorFlow for model training, and supporting libraries such as NumPy, Matplotlib, and tqdm for data processing, visualization, and progress tracking.
