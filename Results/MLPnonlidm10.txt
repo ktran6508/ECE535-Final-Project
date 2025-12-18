@@ -1,0 +1,3930 @@
+starting round 0
+clients:  [31 95  3  7 10 72 15 23 53 77]
+round 0, starting client 1/10, id: 31
+round 0, starting client 2/10, id: 95
+round 0, starting client 3/10, id: 3
+round 0, starting client 4/10, id: 7
+round 0, starting client 5/10, id: 10
+round 0, starting client 6/10, id: 72
+round 0, starting client 7/10, id: 15
+round 0, starting client 8/10, id: 23
+round 0, starting client 9/10, id: 53
+round 0, starting client 10/10, id: 77
+round 0, validation acc: 0.3133
+starting round 1
+clients:  [68 32 59 67 37 72 90 10 77 89]
+round 1, starting client 1/10, id: 68
+round 1, starting client 2/10, id: 32
+round 1, starting client 3/10, id: 59
+round 1, starting client 4/10, id: 67
+round 1, starting client 5/10, id: 37
+round 1, starting client 6/10, id: 72
+round 1, starting client 7/10, id: 90
+round 1, starting client 8/10, id: 10
+round 1, starting client 9/10, id: 77
+round 1, starting client 10/10, id: 89
+round 1, validation acc: 0.324
+starting round 2
+clients:  [88 37 33 91 14 49 68 59 67 45]
+round 2, starting client 1/10, id: 88
+round 2, starting client 2/10, id: 37
+round 2, starting client 3/10, id: 33
+round 2, starting client 4/10, id: 91
+round 2, starting client 5/10, id: 14
+round 2, starting client 6/10, id: 49
+round 2, starting client 7/10, id: 68
+round 2, starting client 8/10, id: 59
+round 2, starting client 9/10, id: 67
+round 2, starting client 10/10, id: 45
+round 2, validation acc: 0.345
+starting round 3
+clients:  [99 74  6 83 73 34 19 35 71 25]
+round 3, starting client 1/10, id: 99
+round 3, starting client 2/10, id: 74
+round 3, starting client 3/10, id: 6
+round 3, starting client 4/10, id: 83
+round 3, starting client 5/10, id: 73
+round 3, starting client 6/10, id: 34
+round 3, starting client 7/10, id: 19
+round 3, starting client 8/10, id: 35
+round 3, starting client 9/10, id: 71
+round 3, starting client 10/10, id: 25
+round 3, validation acc: 0.5845
+starting round 4
+clients:  [86 53 67 21 11  2 59 97 36 44]
+round 4, starting client 1/10, id: 86
+round 4, starting client 2/10, id: 53
+round 4, starting client 3/10, id: 67
+round 4, starting client 4/10, id: 21
+round 4, starting client 5/10, id: 11
+round 4, starting client 6/10, id: 2
+round 4, starting client 7/10, id: 59
+round 4, starting client 8/10, id: 97
+round 4, starting client 9/10, id: 36
+round 4, starting client 10/10, id: 44
+round 4, validation acc: 0.5708
+starting round 5
+clients:  [12 94 83  3 89 91 60 71 11 29]
+round 5, starting client 1/10, id: 12
+round 5, starting client 2/10, id: 94
+round 5, starting client 3/10, id: 83
+round 5, starting client 4/10, id: 3
+round 5, starting client 5/10, id: 89
+round 5, starting client 6/10, id: 91
+round 5, starting client 7/10, id: 60
+round 5, starting client 8/10, id: 71
+round 5, starting client 9/10, id: 11
+round 5, starting client 10/10, id: 29
+round 5, validation acc: 0.5973
+starting round 6
+clients:  [36 96 56  3  0 61 43 91 93  4]
+round 6, starting client 1/10, id: 36
+round 6, starting client 2/10, id: 96
+round 6, starting client 3/10, id: 56
+round 6, starting client 4/10, id: 3
+round 6, starting client 5/10, id: 0
+round 6, starting client 6/10, id: 61
+round 6, starting client 7/10, id: 43
+round 6, starting client 8/10, id: 91
+round 6, starting client 9/10, id: 93
+round 6, starting client 10/10, id: 4
+round 6, validation acc: 0.5507
+starting round 7
+clients:  [46 35 40 14 90 16 54 12 58 27]
+round 7, starting client 1/10, id: 46
+round 7, starting client 2/10, id: 35
+round 7, starting client 3/10, id: 40
+round 7, starting client 4/10, id: 14
+round 7, starting client 5/10, id: 90
+round 7, starting client 6/10, id: 16
+round 7, starting client 7/10, id: 54
+round 7, starting client 8/10, id: 12
+round 7, starting client 9/10, id: 58
+round 7, starting client 10/10, id: 27
+round 7, validation acc: 0.5861
+starting round 8
+clients:  [ 5 31 97 67  7 39 82 74 64 13]
+round 8, starting client 1/10, id: 5
+round 8, starting client 2/10, id: 31
+round 8, starting client 3/10, id: 97
+round 8, starting client 4/10, id: 67
+round 8, starting client 5/10, id: 7
+round 8, starting client 6/10, id: 39
+round 8, starting client 7/10, id: 82
+round 8, starting client 8/10, id: 74
+round 8, starting client 9/10, id: 64
+round 8, starting client 10/10, id: 13
+round 8, validation acc: 0.716
+starting round 9
+clients:  [25 79 63 94 61 90 82 91  0 15]
+round 9, starting client 1/10, id: 25
+round 9, starting client 2/10, id: 79
+round 9, starting client 3/10, id: 63
+round 9, starting client 4/10, id: 94
+round 9, starting client 5/10, id: 61
+round 9, starting client 6/10, id: 90
+round 9, starting client 7/10, id: 82
+round 9, starting client 8/10, id: 91
+round 9, starting client 9/10, id: 0
+round 9, starting client 10/10, id: 15
+round 9, validation acc: 0.719
+starting round 10
+clients:  [78 23  6 13 75 32 64  3 46 35]
+round 10, starting client 1/10, id: 78
+round 10, starting client 2/10, id: 23
+round 10, starting client 3/10, id: 6
+round 10, starting client 4/10, id: 13
+round 10, starting client 5/10, id: 75
+round 10, starting client 6/10, id: 32
+round 10, starting client 7/10, id: 64
+round 10, starting client 8/10, id: 3
+round 10, starting client 9/10, id: 46
+round 10, starting client 10/10, id: 35
+round 10, validation acc: 0.7811
+starting round 11
+clients:  [29 51 27 96 18 70 31 61 40 99]
+round 11, starting client 1/10, id: 29
+round 11, starting client 2/10, id: 51
+round 11, starting client 3/10, id: 27
+round 11, starting client 4/10, id: 96
+round 11, starting client 5/10, id: 18
+round 11, starting client 6/10, id: 70
+round 11, starting client 7/10, id: 31
+round 11, starting client 8/10, id: 61
+round 11, starting client 9/10, id: 40
+round 11, starting client 10/10, id: 99
+round 11, validation acc: 0.7306
+starting round 12
+clients:  [47  6 87 17 59  4 20 34  9 62]
+round 12, starting client 1/10, id: 47
+round 12, starting client 2/10, id: 6
+round 12, starting client 3/10, id: 87
+round 12, starting client 4/10, id: 17
+round 12, starting client 5/10, id: 59
+round 12, starting client 6/10, id: 4
+round 12, starting client 7/10, id: 20
+round 12, starting client 8/10, id: 34
+round 12, starting client 9/10, id: 9
+round 12, starting client 10/10, id: 62
+round 12, validation acc: 0.8016
+starting round 13
+clients:  [56 92  3 10 93 33 75 74 94 96]
+round 13, starting client 1/10, id: 56
+round 13, starting client 2/10, id: 92
+round 13, starting client 3/10, id: 3
+round 13, starting client 4/10, id: 10
+round 13, starting client 5/10, id: 93
+round 13, starting client 6/10, id: 33
+round 13, starting client 7/10, id: 75
+round 13, starting client 8/10, id: 74
+round 13, starting client 9/10, id: 94
+round 13, starting client 10/10, id: 96
+round 13, validation acc: 0.8405
+starting round 14
+clients:  [11 57 42  1 72 90 73  7 18 39]
+round 14, starting client 1/10, id: 11
+round 14, starting client 2/10, id: 57
+round 14, starting client 3/10, id: 42
+round 14, starting client 4/10, id: 1
+round 14, starting client 5/10, id: 72
+round 14, starting client 6/10, id: 90
+round 14, starting client 7/10, id: 73
+round 14, starting client 8/10, id: 7
+round 14, starting client 9/10, id: 18
+round 14, starting client 10/10, id: 39
+round 14, validation acc: 0.7808
+starting round 15
+clients:  [89  5 22 27 60 18 63 76 31 75]
+round 15, starting client 1/10, id: 89
+round 15, starting client 2/10, id: 5
+round 15, starting client 3/10, id: 22
+round 15, starting client 4/10, id: 27
+round 15, starting client 5/10, id: 60
+round 15, starting client 6/10, id: 18
+round 15, starting client 7/10, id: 63
+round 15, starting client 8/10, id: 76
+round 15, starting client 9/10, id: 31
+round 15, starting client 10/10, id: 75
+round 15, validation acc: 0.7702
+starting round 16
+clients:  [ 1 64 67 42 93 47  9 34 91  3]
+round 16, starting client 1/10, id: 1
+round 16, starting client 2/10, id: 64
+round 16, starting client 3/10, id: 67
+round 16, starting client 4/10, id: 42
+round 16, starting client 5/10, id: 93
+round 16, starting client 6/10, id: 47
+round 16, starting client 7/10, id: 9
+round 16, starting client 8/10, id: 34
+round 16, starting client 9/10, id: 91
+round 16, starting client 10/10, id: 3
+round 16, validation acc: 0.8275
+starting round 17
+clients:  [80 12 66 60 40 30 50 62 48 36]
+round 17, starting client 1/10, id: 80
+round 17, starting client 2/10, id: 12
+round 17, starting client 3/10, id: 66
+round 17, starting client 4/10, id: 60
+round 17, starting client 5/10, id: 40
+round 17, starting client 6/10, id: 30
+round 17, starting client 7/10, id: 50
+round 17, starting client 8/10, id: 62
+round 17, starting client 9/10, id: 48
+round 17, starting client 10/10, id: 36
+round 17, validation acc: 0.8145
+starting round 18
+clients:  [80 26 92 28 27 25 82 43 36 50]
+round 18, starting client 1/10, id: 80
+round 18, starting client 2/10, id: 26
+round 18, starting client 3/10, id: 92
+round 18, starting client 4/10, id: 28
+round 18, starting client 5/10, id: 27
+round 18, starting client 6/10, id: 25
+round 18, starting client 7/10, id: 82
+round 18, starting client 8/10, id: 43
+round 18, starting client 9/10, id: 36
+round 18, starting client 10/10, id: 50
+round 18, validation acc: 0.8326
+starting round 19
+clients:  [85 84  3 55 27 99 91 42 72 64]
+round 19, starting client 1/10, id: 85
+round 19, starting client 2/10, id: 84
+round 19, starting client 3/10, id: 3
+round 19, starting client 4/10, id: 55
+round 19, starting client 5/10, id: 27
+round 19, starting client 6/10, id: 99
+round 19, starting client 7/10, id: 91
+round 19, starting client 8/10, id: 42
+round 19, starting client 9/10, id: 72
+round 19, starting client 10/10, id: 64
+round 19, validation acc: 0.8108
+starting round 20
+clients:  [60 93 97 59 28 53 67 12 36 89]
+round 20, starting client 1/10, id: 60
+round 20, starting client 2/10, id: 93
+round 20, starting client 3/10, id: 97
+round 20, starting client 4/10, id: 59
+round 20, starting client 5/10, id: 28
+round 20, starting client 6/10, id: 53
+round 20, starting client 7/10, id: 67
+round 20, starting client 8/10, id: 12
+round 20, starting client 9/10, id: 36
+round 20, starting client 10/10, id: 89
+round 20, validation acc: 0.8446
+starting round 21
+clients:  [46 43 89 40 41  6  2 30 33 18]
+round 21, starting client 1/10, id: 46
+round 21, starting client 2/10, id: 43
+round 21, starting client 3/10, id: 89
+round 21, starting client 4/10, id: 40
+round 21, starting client 5/10, id: 41
+round 21, starting client 6/10, id: 6
+round 21, starting client 7/10, id: 2
+round 21, starting client 8/10, id: 30
+round 21, starting client 9/10, id: 33
+round 21, starting client 10/10, id: 18
+round 21, validation acc: 0.8392
+starting round 22
+clients:  [67 36 47 40 57 66 20 21 74 35]
+round 22, starting client 1/10, id: 67
+round 22, starting client 2/10, id: 36
+round 22, starting client 3/10, id: 47
+round 22, starting client 4/10, id: 40
+round 22, starting client 5/10, id: 57
+round 22, starting client 6/10, id: 66
+round 22, starting client 7/10, id: 20
+round 22, starting client 8/10, id: 21
+round 22, starting client 9/10, id: 74
+round 22, starting client 10/10, id: 35
+round 22, validation acc: 0.8776
+starting round 23
+clients:  [40 27 38 50 63 69 93 23  2  5]
+round 23, starting client 1/10, id: 40
+round 23, starting client 2/10, id: 27
+round 23, starting client 3/10, id: 38
+round 23, starting client 4/10, id: 50
+round 23, starting client 5/10, id: 63
+round 23, starting client 6/10, id: 69
+round 23, starting client 7/10, id: 93
+round 23, starting client 8/10, id: 23
+round 23, starting client 9/10, id: 2
+round 23, starting client 10/10, id: 5
+round 23, validation acc: 0.8534
+starting round 24
+clients:  [60 63 18 62 76 52 33 23 37 95]
+round 24, starting client 1/10, id: 60
+round 24, starting client 2/10, id: 63
+round 24, starting client 3/10, id: 18
+round 24, starting client 4/10, id: 62
+round 24, starting client 5/10, id: 76
+round 24, starting client 6/10, id: 52
+round 24, starting client 7/10, id: 33
+round 24, starting client 8/10, id: 23
+round 24, starting client 9/10, id: 37
+round 24, starting client 10/10, id: 95
+round 24, validation acc: 0.8826
+starting round 25
+clients:  [ 0 98 35 92 32 86 73 36 24 66]
+round 25, starting client 1/10, id: 0
+round 25, starting client 2/10, id: 98
+round 25, starting client 3/10, id: 35
+round 25, starting client 4/10, id: 92
+round 25, starting client 5/10, id: 32
+round 25, starting client 6/10, id: 86
+round 25, starting client 7/10, id: 73
+round 25, starting client 8/10, id: 36
+round 25, starting client 9/10, id: 24
+round 25, starting client 10/10, id: 66
+round 25, validation acc: 0.8849
+starting round 26
+clients:  [31 81  4 16  7 71 14 61 65 28]
+round 26, starting client 1/10, id: 31
+round 26, starting client 2/10, id: 81
+round 26, starting client 3/10, id: 4
+round 26, starting client 4/10, id: 16
+round 26, starting client 5/10, id: 7
+round 26, starting client 6/10, id: 71
+round 26, starting client 7/10, id: 14
+round 26, starting client 8/10, id: 61
+round 26, starting client 9/10, id: 65
+round 26, starting client 10/10, id: 28
+round 26, validation acc: 0.8084
+starting round 27
+clients:  [71 32 11 69 31 58  6 75 86 13]
+round 27, starting client 1/10, id: 71
+round 27, starting client 2/10, id: 32
+round 27, starting client 3/10, id: 11
+round 27, starting client 4/10, id: 69
+round 27, starting client 5/10, id: 31
+round 27, starting client 6/10, id: 58
+round 27, starting client 7/10, id: 6
+round 27, starting client 8/10, id: 75
+round 27, starting client 9/10, id: 86
+round 27, starting client 10/10, id: 13
+round 27, validation acc: 0.8496
+starting round 28
+clients:  [91 17 65 73 83 87  1 69 14 90]
+round 28, starting client 1/10, id: 91
+round 28, starting client 2/10, id: 17
+round 28, starting client 3/10, id: 65
+round 28, starting client 4/10, id: 73
+round 28, starting client 5/10, id: 83
+round 28, starting client 6/10, id: 87
+round 28, starting client 7/10, id: 1
+round 28, starting client 8/10, id: 69
+round 28, starting client 9/10, id: 14
+round 28, starting client 10/10, id: 90
+round 28, validation acc: 0.8686
+starting round 29
+clients:  [78 25 27 93 14 57 69 75 29 33]
+round 29, starting client 1/10, id: 78
+round 29, starting client 2/10, id: 25
+round 29, starting client 3/10, id: 27
+round 29, starting client 4/10, id: 93
+round 29, starting client 5/10, id: 14
+round 29, starting client 6/10, id: 57
+round 29, starting client 7/10, id: 69
+round 29, starting client 8/10, id: 75
+round 29, starting client 9/10, id: 29
+round 29, starting client 10/10, id: 33
+round 29, validation acc: 0.8692
+starting round 30
+clients:  [68 38 98 83 61 76  0 10 31 26]
+round 30, starting client 1/10, id: 68
+round 30, starting client 2/10, id: 38
+round 30, starting client 3/10, id: 98
+round 30, starting client 4/10, id: 83
+round 30, starting client 5/10, id: 61
+round 30, starting client 6/10, id: 76
+round 30, starting client 7/10, id: 0
+round 30, starting client 8/10, id: 10
+round 30, starting client 9/10, id: 31
+round 30, starting client 10/10, id: 26
+round 30, validation acc: 0.8846
+starting round 31
+clients:  [59 67 13 91 17 41 97 36 22 62]
+round 31, starting client 1/10, id: 59
+round 31, starting client 2/10, id: 67
+round 31, starting client 3/10, id: 13
+round 31, starting client 4/10, id: 91
+round 31, starting client 5/10, id: 17
+round 31, starting client 6/10, id: 41
+round 31, starting client 7/10, id: 97
+round 31, starting client 8/10, id: 36
+round 31, starting client 9/10, id: 22
+round 31, starting client 10/10, id: 62
+round 31, validation acc: 0.8335
+starting round 32
+clients:  [40 98 61 71 85 26  6 63 68 72]
+round 32, starting client 1/10, id: 40
+round 32, starting client 2/10, id: 98
+round 32, starting client 3/10, id: 61
+round 32, starting client 4/10, id: 71
+round 32, starting client 5/10, id: 85
+round 32, starting client 6/10, id: 26
+round 32, starting client 7/10, id: 6
+round 32, starting client 8/10, id: 63
+round 32, starting client 9/10, id: 68
+round 32, starting client 10/10, id: 72
+round 32, validation acc: 0.9097
+starting round 33
+clients:  [43 74 47 57 10 91 26 63 75 54]
+round 33, starting client 1/10, id: 43
+round 33, starting client 2/10, id: 74
+round 33, starting client 3/10, id: 47
+round 33, starting client 4/10, id: 57
+round 33, starting client 5/10, id: 10
+round 33, starting client 6/10, id: 91
+round 33, starting client 7/10, id: 26
+round 33, starting client 8/10, id: 63
+round 33, starting client 9/10, id: 75
+round 33, starting client 10/10, id: 54
+round 33, validation acc: 0.8807
+starting round 34
+clients:  [58 73 24 71 15 35 32 65 85 31]
+round 34, starting client 1/10, id: 58
+round 34, starting client 2/10, id: 73
+round 34, starting client 3/10, id: 24
+round 34, starting client 4/10, id: 71
+round 34, starting client 5/10, id: 15
+round 34, starting client 6/10, id: 35
+round 34, starting client 7/10, id: 32
+round 34, starting client 8/10, id: 65
+round 34, starting client 9/10, id: 85
+round 34, starting client 10/10, id: 31
+round 34, validation acc: 0.8367
+starting round 35
+clients:  [95 46 88 84 24 93 69 64 76 38]
+round 35, starting client 1/10, id: 95
+round 35, starting client 2/10, id: 46
+round 35, starting client 3/10, id: 88
+round 35, starting client 4/10, id: 84
+round 35, starting client 5/10, id: 24
+round 35, starting client 6/10, id: 93
+round 35, starting client 7/10, id: 69
+round 35, starting client 8/10, id: 64
+round 35, starting client 9/10, id: 76
+round 35, starting client 10/10, id: 38
+round 35, validation acc: 0.9045
+starting round 36
+clients:  [55 95 51 13 45 94 93 10 53 82]
+round 36, starting client 1/10, id: 55
+round 36, starting client 2/10, id: 95
+round 36, starting client 3/10, id: 51
+round 36, starting client 4/10, id: 13
+round 36, starting client 5/10, id: 45
+round 36, starting client 6/10, id: 94
+round 36, starting client 7/10, id: 93
+round 36, starting client 8/10, id: 10
+round 36, starting client 9/10, id: 53
+round 36, starting client 10/10, id: 82
+round 36, validation acc: 0.8922
+starting round 37
+clients:  [79 95 60  4 31 39 49 69 30 38]
+round 37, starting client 1/10, id: 79
+round 37, starting client 2/10, id: 95
+round 37, starting client 3/10, id: 60
+round 37, starting client 4/10, id: 4
+round 37, starting client 5/10, id: 31
+round 37, starting client 6/10, id: 39
+round 37, starting client 7/10, id: 49
+round 37, starting client 8/10, id: 69
+round 37, starting client 9/10, id: 30
+round 37, starting client 10/10, id: 38
+round 37, validation acc: 0.8782
+starting round 38
+clients:  [20 70 95 78 63 60  2 85 42 66]
+round 38, starting client 1/10, id: 20
+round 38, starting client 2/10, id: 70
+round 38, starting client 3/10, id: 95
+round 38, starting client 4/10, id: 78
+round 38, starting client 5/10, id: 63
+round 38, starting client 6/10, id: 60
+round 38, starting client 7/10, id: 2
+round 38, starting client 8/10, id: 85
+round 38, starting client 9/10, id: 42
+round 38, starting client 10/10, id: 66
+round 38, validation acc: 0.8748
+starting round 39
+clients:  [ 4 35 23 57 33 86 67 73 47 95]
+round 39, starting client 1/10, id: 4
+round 39, starting client 2/10, id: 35
+round 39, starting client 3/10, id: 23
+round 39, starting client 4/10, id: 57
+round 39, starting client 5/10, id: 33
+round 39, starting client 6/10, id: 86
+round 39, starting client 7/10, id: 67
+round 39, starting client 8/10, id: 73
+round 39, starting client 9/10, id: 47
+round 39, starting client 10/10, id: 95
+round 39, validation acc: 0.8857
+starting round 40
+clients:  [66 15 39 22  6 42  4 56 75 57]
+round 40, starting client 1/10, id: 66
+round 40, starting client 2/10, id: 15
+round 40, starting client 3/10, id: 39
+round 40, starting client 4/10, id: 22
+round 40, starting client 5/10, id: 6
+round 40, starting client 6/10, id: 42
+round 40, starting client 7/10, id: 4
+round 40, starting client 8/10, id: 56
+round 40, starting client 9/10, id: 75
+round 40, starting client 10/10, id: 57
+round 40, validation acc: 0.8483
+starting round 41
+clients:  [98 37 65 16 96 56 69 61 76 72]
+round 41, starting client 1/10, id: 98
+round 41, starting client 2/10, id: 37
+round 41, starting client 3/10, id: 65
+round 41, starting client 4/10, id: 16
+round 41, starting client 5/10, id: 96
+round 41, starting client 6/10, id: 56
+round 41, starting client 7/10, id: 69
+round 41, starting client 8/10, id: 61
+round 41, starting client 9/10, id: 76
+round 41, starting client 10/10, id: 72
+round 41, validation acc: 0.9083
+starting round 42
+clients:  [ 6 17 95  3 42 69 11 51 20 44]
+round 42, starting client 1/10, id: 6
+round 42, starting client 2/10, id: 17
+round 42, starting client 3/10, id: 95
+round 42, starting client 4/10, id: 3
+round 42, starting client 5/10, id: 42
+round 42, starting client 6/10, id: 69
+round 42, starting client 7/10, id: 11
+round 42, starting client 8/10, id: 51
+round 42, starting client 9/10, id: 20
+round 42, starting client 10/10, id: 44
+round 42, validation acc: 0.8828
+starting round 43
+clients:  [85 34  3  6 16 64 43 45 60 22]
+round 43, starting client 1/10, id: 85
+round 43, starting client 2/10, id: 34
+round 43, starting client 3/10, id: 3
+round 43, starting client 4/10, id: 6
+round 43, starting client 5/10, id: 16
+round 43, starting client 6/10, id: 64
+round 43, starting client 7/10, id: 43
+round 43, starting client 8/10, id: 45
+round 43, starting client 9/10, id: 60
+round 43, starting client 10/10, id: 22
+round 43, validation acc: 0.8964
+starting round 44
+clients:  [82 84 74 38 17 94 77 25 50 99]
+round 44, starting client 1/10, id: 82
+round 44, starting client 2/10, id: 84
+round 44, starting client 3/10, id: 74
+round 44, starting client 4/10, id: 38
+round 44, starting client 5/10, id: 17
+round 44, starting client 6/10, id: 94
+round 44, starting client 7/10, id: 77
+round 44, starting client 8/10, id: 25
+round 44, starting client 9/10, id: 50
+round 44, starting client 10/10, id: 99
+round 44, validation acc: 0.8983
+starting round 45
+clients:  [52 41 20 98 56 60 88 81 26 45]
+round 45, starting client 1/10, id: 52
+round 45, starting client 2/10, id: 41
+round 45, starting client 3/10, id: 20
+round 45, starting client 4/10, id: 98
+round 45, starting client 5/10, id: 56
+round 45, starting client 6/10, id: 60
+round 45, starting client 7/10, id: 88
+round 45, starting client 8/10, id: 81
+round 45, starting client 9/10, id: 26
+round 45, starting client 10/10, id: 45
+round 45, validation acc: 0.925
+starting round 46
+clients:  [79 62 22 97 96 98 91 56 21 40]
+round 46, starting client 1/10, id: 79
+round 46, starting client 2/10, id: 62
+round 46, starting client 3/10, id: 22
+round 46, starting client 4/10, id: 97
+round 46, starting client 5/10, id: 96
+round 46, starting client 6/10, id: 98
+round 46, starting client 7/10, id: 91
+round 46, starting client 8/10, id: 56
+round 46, starting client 9/10, id: 21
+round 46, starting client 10/10, id: 40
+round 46, validation acc: 0.9033
+starting round 47
+clients:  [31 11 60 40 35 48 14  8 34  3]
+round 47, starting client 1/10, id: 31
+round 47, starting client 2/10, id: 11
+round 47, starting client 3/10, id: 60
+round 47, starting client 4/10, id: 40
+round 47, starting client 5/10, id: 35
+round 47, starting client 6/10, id: 48
+round 47, starting client 7/10, id: 14
+round 47, starting client 8/10, id: 8
+round 47, starting client 9/10, id: 34
+round 47, starting client 10/10, id: 3
+round 47, validation acc: 0.839
+starting round 48
+clients:  [ 6 52 64 69 60 68 42 33  7 67]
+round 48, starting client 1/10, id: 6
+round 48, starting client 2/10, id: 52
+round 48, starting client 3/10, id: 64
+round 48, starting client 4/10, id: 69
+round 48, starting client 5/10, id: 60
+round 48, starting client 6/10, id: 68
+round 48, starting client 7/10, id: 42
+round 48, starting client 8/10, id: 33
+round 48, starting client 9/10, id: 7
+round 48, starting client 10/10, id: 67
+round 48, validation acc: 0.919
+starting round 49
+clients:  [37  1 52 28 60 51 36  3 45 31]
+round 49, starting client 1/10, id: 37
+round 49, starting client 2/10, id: 1
+round 49, starting client 3/10, id: 52
+round 49, starting client 4/10, id: 28
+round 49, starting client 5/10, id: 60
+round 49, starting client 6/10, id: 51
+round 49, starting client 7/10, id: 36
+round 49, starting client 8/10, id: 3
+round 49, starting client 9/10, id: 45
+round 49, starting client 10/10, id: 31
+round 49, validation acc: 0.9014
+starting round 50
+clients:  [52  3 57 71 40 63 27 89 90  8]
+round 50, starting client 1/10, id: 52
+round 50, starting client 2/10, id: 3
+round 50, starting client 3/10, id: 57
+round 50, starting client 4/10, id: 71
+round 50, starting client 5/10, id: 40
+round 50, starting client 6/10, id: 63
+round 50, starting client 7/10, id: 27
+round 50, starting client 8/10, id: 89
+round 50, starting client 9/10, id: 90
+round 50, starting client 10/10, id: 8
+round 50, validation acc: 0.9072
+starting round 51
+clients:  [97 50  4  7 52 76 42 51 40  6]
+round 51, starting client 1/10, id: 97
+round 51, starting client 2/10, id: 50
+round 51, starting client 3/10, id: 4
+round 51, starting client 4/10, id: 7
+round 51, starting client 5/10, id: 52
+round 51, starting client 6/10, id: 76
+round 51, starting client 7/10, id: 42
+round 51, starting client 8/10, id: 51
+round 51, starting client 9/10, id: 40
+round 51, starting client 10/10, id: 6
+round 51, validation acc: 0.9058
+starting round 52
+clients:  [98 56 38 37 49 77  9 83 47 78]
+round 52, starting client 1/10, id: 98
+round 52, starting client 2/10, id: 56
+round 52, starting client 3/10, id: 38
+round 52, starting client 4/10, id: 37
+round 52, starting client 5/10, id: 49
+round 52, starting client 6/10, id: 77
+round 52, starting client 7/10, id: 9
+round 52, starting client 8/10, id: 83
+round 52, starting client 9/10, id: 47
+round 52, starting client 10/10, id: 78
+round 52, validation acc: 0.9299
+starting round 53
+clients:  [10  6 34 87 73 76 59 14 65 80]
+round 53, starting client 1/10, id: 10
+round 53, starting client 2/10, id: 6
+round 53, starting client 3/10, id: 34
+round 53, starting client 4/10, id: 87
+round 53, starting client 5/10, id: 73
+round 53, starting client 6/10, id: 76
+round 53, starting client 7/10, id: 59
+round 53, starting client 8/10, id: 14
+round 53, starting client 9/10, id: 65
+round 53, starting client 10/10, id: 80
+round 53, validation acc: 0.9073
+starting round 54
+clients:  [27 73 80 87 46 85 89 57 33 75]
+round 54, starting client 1/10, id: 27
+round 54, starting client 2/10, id: 73
+round 54, starting client 3/10, id: 80
+round 54, starting client 4/10, id: 87
+round 54, starting client 5/10, id: 46
+round 54, starting client 6/10, id: 85
+round 54, starting client 7/10, id: 89
+round 54, starting client 8/10, id: 57
+round 54, starting client 9/10, id: 33
+round 54, starting client 10/10, id: 75
+round 54, validation acc: 0.9152
+starting round 55
+clients:  [52 46 96 50  7 56 44 85 15 21]
+round 55, starting client 1/10, id: 52
+round 55, starting client 2/10, id: 46
+round 55, starting client 3/10, id: 96
+round 55, starting client 4/10, id: 50
+round 55, starting client 5/10, id: 7
+round 55, starting client 6/10, id: 56
+round 55, starting client 7/10, id: 44
+round 55, starting client 8/10, id: 85
+round 55, starting client 9/10, id: 15
+round 55, starting client 10/10, id: 21
+round 55, validation acc: 0.9074
+starting round 56
+clients:  [15 70 30 92 41 34 29  1 10 14]
+round 56, starting client 1/10, id: 15
+round 56, starting client 2/10, id: 70
+round 56, starting client 3/10, id: 30
+round 56, starting client 4/10, id: 92
+round 56, starting client 5/10, id: 41
+round 56, starting client 6/10, id: 34
+round 56, starting client 7/10, id: 29
+round 56, starting client 8/10, id: 1
+round 56, starting client 9/10, id: 10
+round 56, starting client 10/10, id: 14
+round 56, validation acc: 0.9248
+starting round 57
+clients:  [49 61 73 87 55 59  5 46 33 17]
+round 57, starting client 1/10, id: 49
+round 57, starting client 2/10, id: 61
+round 57, starting client 3/10, id: 73
+round 57, starting client 4/10, id: 87
+round 57, starting client 5/10, id: 55
+round 57, starting client 6/10, id: 59
+round 57, starting client 7/10, id: 5
+round 57, starting client 8/10, id: 46
+round 57, starting client 9/10, id: 33
+round 57, starting client 10/10, id: 17
+round 57, validation acc: 0.9338
+starting round 58
+clients:  [71 95 88 80 69 62 99 86 67 60]
+round 58, starting client 1/10, id: 71
+round 58, starting client 2/10, id: 95
+round 58, starting client 3/10, id: 88
+round 58, starting client 4/10, id: 80
+round 58, starting client 5/10, id: 69
+round 58, starting client 6/10, id: 62
+round 58, starting client 7/10, id: 99
+round 58, starting client 8/10, id: 86
+round 58, starting client 9/10, id: 67
+round 58, starting client 10/10, id: 60
+round 58, validation acc: 0.9289
+starting round 59
+clients:  [15 26 55 38 96 20 90 54 19 47]
+round 59, starting client 1/10, id: 15
+round 59, starting client 2/10, id: 26
+round 59, starting client 3/10, id: 55
+round 59, starting client 4/10, id: 38
+round 59, starting client 5/10, id: 96
+round 59, starting client 6/10, id: 20
+round 59, starting client 7/10, id: 90
+round 59, starting client 8/10, id: 54
+round 59, starting client 9/10, id: 19
+round 59, starting client 10/10, id: 47
+round 59, validation acc: 0.9267
+starting round 60
+clients:  [52 73 16 79 93 50 26 25  8 56]
+round 60, starting client 1/10, id: 52
+round 60, starting client 2/10, id: 73
+round 60, starting client 3/10, id: 16
+round 60, starting client 4/10, id: 79
+round 60, starting client 5/10, id: 93
+round 60, starting client 6/10, id: 50
+round 60, starting client 7/10, id: 26
+round 60, starting client 8/10, id: 25
+round 60, starting client 9/10, id: 8
+round 60, starting client 10/10, id: 56
+round 60, validation acc: 0.9395
+starting round 61
+clients:  [14 20 91 65 64 10  4 39 13 32]
+round 61, starting client 1/10, id: 14
+round 61, starting client 2/10, id: 20
+round 61, starting client 3/10, id: 91
+round 61, starting client 4/10, id: 65
+round 61, starting client 5/10, id: 64
+round 61, starting client 6/10, id: 10
+round 61, starting client 7/10, id: 4
+round 61, starting client 8/10, id: 39
+round 61, starting client 9/10, id: 13
+round 61, starting client 10/10, id: 32
+round 61, validation acc: 0.9339
+starting round 62
+clients:  [37  3  0 82 60 54 22 98 89 14]
+round 62, starting client 1/10, id: 37
+round 62, starting client 2/10, id: 3
+round 62, starting client 3/10, id: 0
+round 62, starting client 4/10, id: 82
+round 62, starting client 5/10, id: 60
+round 62, starting client 6/10, id: 54
+round 62, starting client 7/10, id: 22
+round 62, starting client 8/10, id: 98
+round 62, starting client 9/10, id: 89
+round 62, starting client 10/10, id: 14
+round 62, validation acc: 0.9303
+starting round 63
+clients:  [96 12  8  9 81 77 19 97 26  7]
+round 63, starting client 1/10, id: 96
+round 63, starting client 2/10, id: 12
+round 63, starting client 3/10, id: 8
+round 63, starting client 4/10, id: 9
+round 63, starting client 5/10, id: 81
+round 63, starting client 6/10, id: 77
+round 63, starting client 7/10, id: 19
+round 63, starting client 8/10, id: 97
+round 63, starting client 9/10, id: 26
+round 63, starting client 10/10, id: 7
+round 63, validation acc: 0.9239
+starting round 64
+clients:  [87 23 98 49 90 32 33 89  8 76]
+round 64, starting client 1/10, id: 87
+round 64, starting client 2/10, id: 23
+round 64, starting client 3/10, id: 98
+round 64, starting client 4/10, id: 49
+round 64, starting client 5/10, id: 90
+round 64, starting client 6/10, id: 32
+round 64, starting client 7/10, id: 33
+round 64, starting client 8/10, id: 89
+round 64, starting client 9/10, id: 8
+round 64, starting client 10/10, id: 76
+round 64, validation acc: 0.9323
+starting round 65
+clients:  [66 43 45 30 12 71 84 54 26 44]
+round 65, starting client 1/10, id: 66
+round 65, starting client 2/10, id: 43
+round 65, starting client 3/10, id: 45
+round 65, starting client 4/10, id: 30
+round 65, starting client 5/10, id: 12
+round 65, starting client 6/10, id: 71
+round 65, starting client 7/10, id: 84
+round 65, starting client 8/10, id: 54
+round 65, starting client 9/10, id: 26
+round 65, starting client 10/10, id: 44
+round 65, validation acc: 0.9332
+starting round 66
+clients:  [27 58 54 63 18 86 87 91 53 93]
+round 66, starting client 1/10, id: 27
+round 66, starting client 2/10, id: 58
+round 66, starting client 3/10, id: 54
+round 66, starting client 4/10, id: 63
+round 66, starting client 5/10, id: 18
+round 66, starting client 6/10, id: 86
+round 66, starting client 7/10, id: 87
+round 66, starting client 8/10, id: 91
+round 66, starting client 9/10, id: 53
+round 66, starting client 10/10, id: 93
+round 66, validation acc: 0.9257
+starting round 67
+clients:  [21 18 97  9 91 85  6  2 73 24]
+round 67, starting client 1/10, id: 21
+round 67, starting client 2/10, id: 18
+round 67, starting client 3/10, id: 97
+round 67, starting client 4/10, id: 9
+round 67, starting client 5/10, id: 91
+round 67, starting client 6/10, id: 85
+round 67, starting client 7/10, id: 6
+round 67, starting client 8/10, id: 2
+round 67, starting client 9/10, id: 73
+round 67, starting client 10/10, id: 24
+round 67, validation acc: 0.9325
+starting round 68
+clients:  [76 73 56 53 45 68 91  0 33 65]
+round 68, starting client 1/10, id: 76
+round 68, starting client 2/10, id: 73
+round 68, starting client 3/10, id: 56
+round 68, starting client 4/10, id: 53
+round 68, starting client 5/10, id: 45
+round 68, starting client 6/10, id: 68
+round 68, starting client 7/10, id: 91
+round 68, starting client 8/10, id: 0
+round 68, starting client 9/10, id: 33
+round 68, starting client 10/10, id: 65
+round 68, validation acc: 0.9375
+starting round 69
+clients:  [80 66 45 75 92 56 61 42  2 46]
+round 69, starting client 1/10, id: 80
+round 69, starting client 2/10, id: 66
+round 69, starting client 3/10, id: 45
+round 69, starting client 4/10, id: 75
+round 69, starting client 5/10, id: 92
+round 69, starting client 6/10, id: 56
+round 69, starting client 7/10, id: 61
+round 69, starting client 8/10, id: 42
+round 69, starting client 9/10, id: 2
+round 69, starting client 10/10, id: 46
+round 69, validation acc: 0.931
+starting round 70
+clients:  [18 20  1 99 38 56 74 17 61 60]
+round 70, starting client 1/10, id: 18
+round 70, starting client 2/10, id: 20
+round 70, starting client 3/10, id: 1
+round 70, starting client 4/10, id: 99
+round 70, starting client 5/10, id: 38
+round 70, starting client 6/10, id: 56
+round 70, starting client 7/10, id: 74
+round 70, starting client 8/10, id: 17
+round 70, starting client 9/10, id: 61
+round 70, starting client 10/10, id: 60
+round 70, validation acc: 0.9323
+starting round 71
+clients:  [65 70 91  4 72 73 53 36 50  5]
+round 71, starting client 1/10, id: 65
+round 71, starting client 2/10, id: 70
+round 71, starting client 3/10, id: 91
+round 71, starting client 4/10, id: 4
+round 71, starting client 5/10, id: 72
+round 71, starting client 6/10, id: 73
+round 71, starting client 7/10, id: 53
+round 71, starting client 8/10, id: 36
+round 71, starting client 9/10, id: 50
+round 71, starting client 10/10, id: 5
+round 71, validation acc: 0.9404
+starting round 72
+clients:  [22 74 54 84 77 16 99 36 23 97]
+round 72, starting client 1/10, id: 22
+round 72, starting client 2/10, id: 74
+round 72, starting client 3/10, id: 54
+round 72, starting client 4/10, id: 84
+round 72, starting client 5/10, id: 77
+round 72, starting client 6/10, id: 16
+round 72, starting client 7/10, id: 99
+round 72, starting client 8/10, id: 36
+round 72, starting client 9/10, id: 23
+round 72, starting client 10/10, id: 97
+round 72, validation acc: 0.9123
+starting round 73
+clients:  [83 49 78 50 63 73 88 75  1  9]
+round 73, starting client 1/10, id: 83
+round 73, starting client 2/10, id: 49
+round 73, starting client 3/10, id: 78
+round 73, starting client 4/10, id: 50
+round 73, starting client 5/10, id: 63
+round 73, starting client 6/10, id: 73
+round 73, starting client 7/10, id: 88
+round 73, starting client 8/10, id: 75
+round 73, starting client 9/10, id: 1
+round 73, starting client 10/10, id: 9
+round 73, validation acc: 0.9023
+starting round 74
+clients:  [ 9 40 74 56 28 76 14 59 31 20]
+round 74, starting client 1/10, id: 9
+round 74, starting client 2/10, id: 40
+round 74, starting client 3/10, id: 74
+round 74, starting client 4/10, id: 56
+round 74, starting client 5/10, id: 28
+round 74, starting client 6/10, id: 76
+round 74, starting client 7/10, id: 14
+round 74, starting client 8/10, id: 59
+round 74, starting client 9/10, id: 31
+round 74, starting client 10/10, id: 20
+round 74, validation acc: 0.9185
+starting round 75
+clients:  [34 58 35 32 69 31 75 18 38  7]
+round 75, starting client 1/10, id: 34
+round 75, starting client 2/10, id: 58
+round 75, starting client 3/10, id: 35
+round 75, starting client 4/10, id: 32
+round 75, starting client 5/10, id: 69
+round 75, starting client 6/10, id: 31
+round 75, starting client 7/10, id: 75
+round 75, starting client 8/10, id: 18
+round 75, starting client 9/10, id: 38
+round 75, starting client 10/10, id: 7
+round 75, validation acc: 0.9422
+starting round 76
+clients:  [80 50 17 70 53 98 90 23 13 37]
+round 76, starting client 1/10, id: 80
+round 76, starting client 2/10, id: 50
+round 76, starting client 3/10, id: 17
+round 76, starting client 4/10, id: 70
+round 76, starting client 5/10, id: 53
+round 76, starting client 6/10, id: 98
+round 76, starting client 7/10, id: 90
+round 76, starting client 8/10, id: 23
+round 76, starting client 9/10, id: 13
+round 76, starting client 10/10, id: 37
+round 76, validation acc: 0.9024
+starting round 77
+clients:  [77 80 19 29 94 49 33  4 28 99]
+round 77, starting client 1/10, id: 77
+round 77, starting client 2/10, id: 80
+round 77, starting client 3/10, id: 19
+round 77, starting client 4/10, id: 29
+round 77, starting client 5/10, id: 94
+round 77, starting client 6/10, id: 49
+round 77, starting client 7/10, id: 33
+round 77, starting client 8/10, id: 4
+round 77, starting client 9/10, id: 28
+round 77, starting client 10/10, id: 99
+round 77, validation acc: 0.9261
+starting round 78
+clients:  [94 25 51 42 84  0 60 31 93 69]
+round 78, starting client 1/10, id: 94
+round 78, starting client 2/10, id: 25
+round 78, starting client 3/10, id: 51
+round 78, starting client 4/10, id: 42
+round 78, starting client 5/10, id: 84
+round 78, starting client 6/10, id: 0
+round 78, starting client 7/10, id: 60
+round 78, starting client 8/10, id: 31
+round 78, starting client 9/10, id: 93
+round 78, starting client 10/10, id: 69
+round 78, validation acc: 0.9282
+starting round 79
+clients:  [96 98 57 78 31 51 83  6 48 39]
+round 79, starting client 1/10, id: 96
+round 79, starting client 2/10, id: 98
+round 79, starting client 3/10, id: 57
+round 79, starting client 4/10, id: 78
+round 79, starting client 5/10, id: 31
+round 79, starting client 6/10, id: 51
+round 79, starting client 7/10, id: 83
+round 79, starting client 8/10, id: 6
+round 79, starting client 9/10, id: 48
+round 79, starting client 10/10, id: 39
+round 79, validation acc: 0.9371
+starting round 80
+clients:  [78 83 80 61 58 33 35 13 42 11]
+round 80, starting client 1/10, id: 78
+round 80, starting client 2/10, id: 83
+round 80, starting client 3/10, id: 80
+round 80, starting client 4/10, id: 61
+round 80, starting client 5/10, id: 58
+round 80, starting client 6/10, id: 33
+round 80, starting client 7/10, id: 35
+round 80, starting client 8/10, id: 13
+round 80, starting client 9/10, id: 42
+round 80, starting client 10/10, id: 11
+round 80, validation acc: 0.9376
+starting round 81
+clients:  [42 24  0 32 64 12 31  5 66 57]
+round 81, starting client 1/10, id: 42
+round 81, starting client 2/10, id: 24
+round 81, starting client 3/10, id: 0
+round 81, starting client 4/10, id: 32
+round 81, starting client 5/10, id: 64
+round 81, starting client 6/10, id: 12
+round 81, starting client 7/10, id: 31
+round 81, starting client 8/10, id: 5
+round 81, starting client 9/10, id: 66
+round 81, starting client 10/10, id: 57
+round 81, validation acc: 0.9216
+starting round 82
+clients:  [12 77  2 84 30 32 47 73  1 66]
+round 82, starting client 1/10, id: 12
+round 82, starting client 2/10, id: 77
+round 82, starting client 3/10, id: 2
+round 82, starting client 4/10, id: 84
+round 82, starting client 5/10, id: 30
+round 82, starting client 6/10, id: 32
+round 82, starting client 7/10, id: 47
+round 82, starting client 8/10, id: 73
+round 82, starting client 9/10, id: 1
+round 82, starting client 10/10, id: 66
+round 82, validation acc: 0.9432
+starting round 83
+clients:  [25 91  5  9 87 10 69 20 28 52]
+round 83, starting client 1/10, id: 25
+round 83, starting client 2/10, id: 91
+round 83, starting client 3/10, id: 5
+round 83, starting client 4/10, id: 9
+round 83, starting client 5/10, id: 87
+round 83, starting client 6/10, id: 10
+round 83, starting client 7/10, id: 69
+round 83, starting client 8/10, id: 20
+round 83, starting client 9/10, id: 28
+round 83, starting client 10/10, id: 52
+round 83, validation acc: 0.9388
+starting round 84
+clients:  [53 75  9 10 62 68 94 11  4 79]
+round 84, starting client 1/10, id: 53
+round 84, starting client 2/10, id: 75
+round 84, starting client 3/10, id: 9
+round 84, starting client 4/10, id: 10
+round 84, starting client 5/10, id: 62
+round 84, starting client 6/10, id: 68
+round 84, starting client 7/10, id: 94
+round 84, starting client 8/10, id: 11
+round 84, starting client 9/10, id: 4
+round 84, starting client 10/10, id: 79
+round 84, validation acc: 0.9391
+starting round 85
+clients:  [92 68 19 37  3 34 71 87 40 51]
+round 85, starting client 1/10, id: 92
+round 85, starting client 2/10, id: 68
+round 85, starting client 3/10, id: 19
+round 85, starting client 4/10, id: 37
+round 85, starting client 5/10, id: 3
+round 85, starting client 6/10, id: 34
+round 85, starting client 7/10, id: 71
+round 85, starting client 8/10, id: 87
+round 85, starting client 9/10, id: 40
+round 85, starting client 10/10, id: 51
+round 85, validation acc: 0.9392
+starting round 86
+clients:  [ 1 47 15 96 98 41 83 24 14 93]
+round 86, starting client 1/10, id: 1
+round 86, starting client 2/10, id: 47
+round 86, starting client 3/10, id: 15
+round 86, starting client 4/10, id: 96
+round 86, starting client 5/10, id: 98
+round 86, starting client 6/10, id: 41
+round 86, starting client 7/10, id: 83
+round 86, starting client 8/10, id: 24
+round 86, starting client 9/10, id: 14
+round 86, starting client 10/10, id: 93
+round 86, validation acc: 0.9413
+starting round 87
+clients:  [55 29  9 93 95 81 79 86 41 89]
+round 87, starting client 1/10, id: 55
+round 87, starting client 2/10, id: 29
+round 87, starting client 3/10, id: 9
+round 87, starting client 4/10, id: 93
+round 87, starting client 5/10, id: 95
+round 87, starting client 6/10, id: 81
+round 87, starting client 7/10, id: 79
+round 87, starting client 8/10, id: 86
+round 87, starting client 9/10, id: 41
+round 87, starting client 10/10, id: 89
+round 87, validation acc: 0.9379
+starting round 88
+clients:  [57 12 26 30 52 85 46 90 23 44]
+round 88, starting client 1/10, id: 57
+round 88, starting client 2/10, id: 12
+round 88, starting client 3/10, id: 26
+round 88, starting client 4/10, id: 30
+round 88, starting client 5/10, id: 52
+round 88, starting client 6/10, id: 85
+round 88, starting client 7/10, id: 46
+round 88, starting client 8/10, id: 90
+round 88, starting client 9/10, id: 23
+round 88, starting client 10/10, id: 44
+round 88, validation acc: 0.9534
+starting round 89
+clients:  [79 82 13 67 91 49 61 66 48  6]
+round 89, starting client 1/10, id: 79
+round 89, starting client 2/10, id: 82
+round 89, starting client 3/10, id: 13
+round 89, starting client 4/10, id: 67
+round 89, starting client 5/10, id: 91
+round 89, starting client 6/10, id: 49
+round 89, starting client 7/10, id: 61
+round 89, starting client 8/10, id: 66
+round 89, starting client 9/10, id: 48
+round 89, starting client 10/10, id: 6
+round 89, validation acc: 0.9156
+starting round 90
+clients:  [78 46 53 17 24  1 60 59 91 28]
+round 90, starting client 1/10, id: 78
+round 90, starting client 2/10, id: 46
+round 90, starting client 3/10, id: 53
+round 90, starting client 4/10, id: 17
+round 90, starting client 5/10, id: 24
+round 90, starting client 6/10, id: 1
+round 90, starting client 7/10, id: 60
+round 90, starting client 8/10, id: 59
+round 90, starting client 9/10, id: 91
+round 90, starting client 10/10, id: 28
+round 90, validation acc: 0.9387
+starting round 91
+clients:  [43 95 37 81 38 48 19 67 11 18]
+round 91, starting client 1/10, id: 43
+round 91, starting client 2/10, id: 95
+round 91, starting client 3/10, id: 37
+round 91, starting client 4/10, id: 81
+round 91, starting client 5/10, id: 38
+round 91, starting client 6/10, id: 48
+round 91, starting client 7/10, id: 19
+round 91, starting client 8/10, id: 67
+round 91, starting client 9/10, id: 11
+round 91, starting client 10/10, id: 18
+round 91, validation acc: 0.9411
+starting round 92
+clients:  [41 45 19 28 80 51 57 91 87 73]
+round 92, starting client 1/10, id: 41
+round 92, starting client 2/10, id: 45
+round 92, starting client 3/10, id: 19
+round 92, starting client 4/10, id: 28
+round 92, starting client 5/10, id: 80
+round 92, starting client 6/10, id: 51
+round 92, starting client 7/10, id: 57
+round 92, starting client 8/10, id: 91
+round 92, starting client 9/10, id: 87
+round 92, starting client 10/10, id: 73
+round 92, validation acc: 0.9448
+starting round 93
+clients:  [31 18 34 29 26 15 76  6 50 85]
+round 93, starting client 1/10, id: 31
+round 93, starting client 2/10, id: 18
+round 93, starting client 3/10, id: 34
+round 93, starting client 4/10, id: 29
+round 93, starting client 5/10, id: 26
+round 93, starting client 6/10, id: 15
+round 93, starting client 7/10, id: 76
+round 93, starting client 8/10, id: 6
+round 93, starting client 9/10, id: 50
+round 93, starting client 10/10, id: 85
+round 93, validation acc: 0.9556
+starting round 94
+clients:  [61 71 42 33 73 60  3 25 16 47]
+round 94, starting client 1/10, id: 61
+round 94, starting client 2/10, id: 71
+round 94, starting client 3/10, id: 42
+round 94, starting client 4/10, id: 33
+round 94, starting client 5/10, id: 73
+round 94, starting client 6/10, id: 60
+round 94, starting client 7/10, id: 3
+round 94, starting client 8/10, id: 25
+round 94, starting client 9/10, id: 16
+round 94, starting client 10/10, id: 47
+round 94, validation acc: 0.953
+starting round 95
+clients:  [97 15 49 96 41 82 10 48 34 32]
+round 95, starting client 1/10, id: 97
+round 95, starting client 2/10, id: 15
+round 95, starting client 3/10, id: 49
+round 95, starting client 4/10, id: 96
+round 95, starting client 5/10, id: 41
+round 95, starting client 6/10, id: 82
+round 95, starting client 7/10, id: 10
+round 95, starting client 8/10, id: 48
+round 95, starting client 9/10, id: 34
+round 95, starting client 10/10, id: 32
+round 95, validation acc: 0.9457
+starting round 96
+clients:  [41 98  0 97 71 31 28 10  3 33]
+round 96, starting client 1/10, id: 41
+round 96, starting client 2/10, id: 98
+round 96, starting client 3/10, id: 0
+round 96, starting client 4/10, id: 97
+round 96, starting client 5/10, id: 71
+round 96, starting client 6/10, id: 31
+round 96, starting client 7/10, id: 28
+round 96, starting client 8/10, id: 10
+round 96, starting client 9/10, id: 3
+round 96, starting client 10/10, id: 33
+round 96, validation acc: 0.9478
+starting round 97
+clients:  [42 81 96 70 94 80 22 51 40 15]
+round 97, starting client 1/10, id: 42
+round 97, starting client 2/10, id: 81
+round 97, starting client 3/10, id: 96
+round 97, starting client 4/10, id: 70
+round 97, starting client 5/10, id: 94
+round 97, starting client 6/10, id: 80
+round 97, starting client 7/10, id: 22
+round 97, starting client 8/10, id: 51
+round 97, starting client 9/10, id: 40
+round 97, starting client 10/10, id: 15
+round 97, validation acc: 0.9463
+starting round 98
+clients:  [34 88 91 72 40 89 99 36 14 39]
+round 98, starting client 1/10, id: 34
+round 98, starting client 2/10, id: 88
+round 98, starting client 3/10, id: 91
+round 98, starting client 4/10, id: 72
+round 98, starting client 5/10, id: 40
+round 98, starting client 6/10, id: 89
+round 98, starting client 7/10, id: 99
+round 98, starting client 8/10, id: 36
+round 98, starting client 9/10, id: 14
+round 98, starting client 10/10, id: 39
+round 98, validation acc: 0.9536
+starting round 99
+clients:  [20 68 16 74 44 49 61 92 52 43]
+round 99, starting client 1/10, id: 20
+round 99, starting client 2/10, id: 68
+round 99, starting client 3/10, id: 16
+round 99, starting client 4/10, id: 74
+round 99, starting client 5/10, id: 44
+round 99, starting client 6/10, id: 49
+round 99, starting client 7/10, id: 61
+round 99, starting client 8/10, id: 92
+round 99, starting client 9/10, id: 52
+round 99, starting client 10/10, id: 43
+round 99, validation acc: 0.9508
+starting round 100
+clients:  [31 58 14 25 65 15 46 82 70 48]
+round 100, starting client 1/10, id: 31
+round 100, starting client 2/10, id: 58
+round 100, starting client 3/10, id: 14
+round 100, starting client 4/10, id: 25
+round 100, starting client 5/10, id: 65
+round 100, starting client 6/10, id: 15
+round 100, starting client 7/10, id: 46
+round 100, starting client 8/10, id: 82
+round 100, starting client 9/10, id: 70
+round 100, starting client 10/10, id: 48
+round 100, validation acc: 0.9475
+starting round 101
+clients:  [68 35 84 53 79 70 61 85 25 73]
+round 101, starting client 1/10, id: 68
+round 101, starting client 2/10, id: 35
+round 101, starting client 3/10, id: 84
+round 101, starting client 4/10, id: 53
+round 101, starting client 5/10, id: 79
+round 101, starting client 6/10, id: 70
+round 101, starting client 7/10, id: 61
+round 101, starting client 8/10, id: 85
+round 101, starting client 9/10, id: 25
+round 101, starting client 10/10, id: 73
+round 101, validation acc: 0.9516
+starting round 102
+clients:  [57 34 16 78 69 95 83 50 68 21]
+round 102, starting client 1/10, id: 57
+round 102, starting client 2/10, id: 34
+round 102, starting client 3/10, id: 16
+round 102, starting client 4/10, id: 78
+round 102, starting client 5/10, id: 69
+round 102, starting client 6/10, id: 95
+round 102, starting client 7/10, id: 83
+round 102, starting client 8/10, id: 50
+round 102, starting client 9/10, id: 68
+round 102, starting client 10/10, id: 21
+round 102, validation acc: 0.9341
+starting round 103
+clients:  [50 65 15 41 94 77 43 61 53 55]
+round 103, starting client 1/10, id: 50
+round 103, starting client 2/10, id: 65
+round 103, starting client 3/10, id: 15
+round 103, starting client 4/10, id: 41
+round 103, starting client 5/10, id: 94
+round 103, starting client 6/10, id: 77
+round 103, starting client 7/10, id: 43
+round 103, starting client 8/10, id: 61
+round 103, starting client 9/10, id: 53
+round 103, starting client 10/10, id: 55
+round 103, validation acc: 0.9509
+starting round 104
+clients:  [ 9 33 77 96  1 45 82  4 69 19]
+round 104, starting client 1/10, id: 9
+round 104, starting client 2/10, id: 33
+round 104, starting client 3/10, id: 77
+round 104, starting client 4/10, id: 96
+round 104, starting client 5/10, id: 1
+round 104, starting client 6/10, id: 45
+round 104, starting client 7/10, id: 82
+round 104, starting client 8/10, id: 4
+round 104, starting client 9/10, id: 69
+round 104, starting client 10/10, id: 19
+round 104, validation acc: 0.9423
+starting round 105
+clients:  [98 70 26 43 28 58 17 59 30  1]
+round 105, starting client 1/10, id: 98
+round 105, starting client 2/10, id: 70
+round 105, starting client 3/10, id: 26
+round 105, starting client 4/10, id: 43
+round 105, starting client 5/10, id: 28
+round 105, starting client 6/10, id: 58
+round 105, starting client 7/10, id: 17
+round 105, starting client 8/10, id: 59
+round 105, starting client 9/10, id: 30
+round 105, starting client 10/10, id: 1
+round 105, validation acc: 0.9447
+starting round 106
+clients:  [37 86 59 67 36 88 22 89  2 61]
+round 106, starting client 1/10, id: 37
+round 106, starting client 2/10, id: 86
+round 106, starting client 3/10, id: 59
+round 106, starting client 4/10, id: 67
+round 106, starting client 5/10, id: 36
+round 106, starting client 6/10, id: 88
+round 106, starting client 7/10, id: 22
+round 106, starting client 8/10, id: 89
+round 106, starting client 9/10, id: 2
+round 106, starting client 10/10, id: 61
+round 106, validation acc: 0.9529
+starting round 107
+clients:  [35 64 57 19 13 73 79 60 97 44]
+round 107, starting client 1/10, id: 35
+round 107, starting client 2/10, id: 64
+round 107, starting client 3/10, id: 57
+round 107, starting client 4/10, id: 19
+round 107, starting client 5/10, id: 13
+round 107, starting client 6/10, id: 73
+round 107, starting client 7/10, id: 79
+round 107, starting client 8/10, id: 60
+round 107, starting client 9/10, id: 97
+round 107, starting client 10/10, id: 44
+round 107, validation acc: 0.9491
+starting round 108
+clients:  [ 9 59 52 29 51 33 30 98  3 63]
+round 108, starting client 1/10, id: 9
+round 108, starting client 2/10, id: 59
+round 108, starting client 3/10, id: 52
+round 108, starting client 4/10, id: 29
+round 108, starting client 5/10, id: 51
+round 108, starting client 6/10, id: 33
+round 108, starting client 7/10, id: 30
+round 108, starting client 8/10, id: 98
+round 108, starting client 9/10, id: 3
+round 108, starting client 10/10, id: 63
+round 108, validation acc: 0.9586
+starting round 109
+clients:  [53 28 22 14 18 25 23 71 87 63]
+round 109, starting client 1/10, id: 53
+round 109, starting client 2/10, id: 28
+round 109, starting client 3/10, id: 22
+round 109, starting client 4/10, id: 14
+round 109, starting client 5/10, id: 18
+round 109, starting client 6/10, id: 25
+round 109, starting client 7/10, id: 23
+round 109, starting client 8/10, id: 71
+round 109, starting client 9/10, id: 87
+round 109, starting client 10/10, id: 63
+round 109, validation acc: 0.9551
+starting round 110
+clients:  [53 46 36 77 35 51 20 99 40 11]
+round 110, starting client 1/10, id: 53
+round 110, starting client 2/10, id: 46
+round 110, starting client 3/10, id: 36
+round 110, starting client 4/10, id: 77
+round 110, starting client 5/10, id: 35
+round 110, starting client 6/10, id: 51
+round 110, starting client 7/10, id: 20
+round 110, starting client 8/10, id: 99
+round 110, starting client 9/10, id: 40
+round 110, starting client 10/10, id: 11
+round 110, validation acc: 0.9506
+starting round 111
+clients:  [18 76 65  1  9 86  3 60 84 48]
+round 111, starting client 1/10, id: 18
+round 111, starting client 2/10, id: 76
+round 111, starting client 3/10, id: 65
+round 111, starting client 4/10, id: 1
+round 111, starting client 5/10, id: 9
+round 111, starting client 6/10, id: 86
+round 111, starting client 7/10, id: 3
+round 111, starting client 8/10, id: 60
+round 111, starting client 9/10, id: 84
+round 111, starting client 10/10, id: 48
+round 111, validation acc: 0.9515
+starting round 112
+clients:  [36 97 76 19 68 51 87 49 64 10]
+round 112, starting client 1/10, id: 36
+round 112, starting client 2/10, id: 97
+round 112, starting client 3/10, id: 76
+round 112, starting client 4/10, id: 19
+round 112, starting client 5/10, id: 68
+round 112, starting client 6/10, id: 51
+round 112, starting client 7/10, id: 87
+round 112, starting client 8/10, id: 49
+round 112, starting client 9/10, id: 64
+round 112, starting client 10/10, id: 10
+round 112, validation acc: 0.9579
+starting round 113
+clients:  [91 89 46 94 41 72 35 44  7 80]
+round 113, starting client 1/10, id: 91
+round 113, starting client 2/10, id: 89
+round 113, starting client 3/10, id: 46
+round 113, starting client 4/10, id: 94
+round 113, starting client 5/10, id: 41
+round 113, starting client 6/10, id: 72
+round 113, starting client 7/10, id: 35
+round 113, starting client 8/10, id: 44
+round 113, starting client 9/10, id: 7
+round 113, starting client 10/10, id: 80
+round 113, validation acc: 0.9559
+starting round 114
+clients:  [31 49 53 62 68 79 48 97 74 73]
+round 114, starting client 1/10, id: 31
+round 114, starting client 2/10, id: 49
+round 114, starting client 3/10, id: 53
+round 114, starting client 4/10, id: 62
+round 114, starting client 5/10, id: 68
+round 114, starting client 6/10, id: 79
+round 114, starting client 7/10, id: 48
+round 114, starting client 8/10, id: 97
+round 114, starting client 9/10, id: 74
+round 114, starting client 10/10, id: 73
+round 114, validation acc: 0.9517
+starting round 115
+clients:  [27 73 55 65 72 93 44 68 30 13]
+round 115, starting client 1/10, id: 27
+round 115, starting client 2/10, id: 73
+round 115, starting client 3/10, id: 55
+round 115, starting client 4/10, id: 65
+round 115, starting client 5/10, id: 72
+round 115, starting client 6/10, id: 93
+round 115, starting client 7/10, id: 44
+round 115, starting client 8/10, id: 68
+round 115, starting client 9/10, id: 30
+round 115, starting client 10/10, id: 13
+round 115, validation acc: 0.9437
+starting round 116
+clients:  [83 53 33 84 44 64 21 57 38  5]
+round 116, starting client 1/10, id: 83
+round 116, starting client 2/10, id: 53
+round 116, starting client 3/10, id: 33
+round 116, starting client 4/10, id: 84
+round 116, starting client 5/10, id: 44
+round 116, starting client 6/10, id: 64
+round 116, starting client 7/10, id: 21
+round 116, starting client 8/10, id: 57
+round 116, starting client 9/10, id: 38
+round 116, starting client 10/10, id: 5
+round 116, validation acc: 0.9542
+starting round 117
+clients:  [31 22 10 16 20 97 34 64  3 51]
+round 117, starting client 1/10, id: 31
+round 117, starting client 2/10, id: 22
+round 117, starting client 3/10, id: 10
+round 117, starting client 4/10, id: 16
+round 117, starting client 5/10, id: 20
+round 117, starting client 6/10, id: 97
+round 117, starting client 7/10, id: 34
+round 117, starting client 8/10, id: 64
+round 117, starting client 9/10, id: 3
+round 117, starting client 10/10, id: 51
+round 117, validation acc: 0.9439
+starting round 118
+clients:  [55 30 31 64 48 19 84 83 81 51]
+round 118, starting client 1/10, id: 55
+round 118, starting client 2/10, id: 30
+round 118, starting client 3/10, id: 31
+round 118, starting client 4/10, id: 64
+round 118, starting client 5/10, id: 48
+round 118, starting client 6/10, id: 19
+round 118, starting client 7/10, id: 84
+round 118, starting client 8/10, id: 83
+round 118, starting client 9/10, id: 81
+round 118, starting client 10/10, id: 51
+round 118, validation acc: 0.9458
+starting round 119
+clients:  [15 80 56  7 22 28 82 52 20 97]
+round 119, starting client 1/10, id: 15
+round 119, starting client 2/10, id: 80
+round 119, starting client 3/10, id: 56
+round 119, starting client 4/10, id: 7
+round 119, starting client 5/10, id: 22
+round 119, starting client 6/10, id: 28
+round 119, starting client 7/10, id: 82
+round 119, starting client 8/10, id: 52
+round 119, starting client 9/10, id: 20
+round 119, starting client 10/10, id: 97
+round 119, validation acc: 0.9463
+starting round 120
+clients:  [82 13 69 42 71 11  6 38 43 97]
+round 120, starting client 1/10, id: 82
+round 120, starting client 2/10, id: 13
+round 120, starting client 3/10, id: 69
+round 120, starting client 4/10, id: 42
+round 120, starting client 5/10, id: 71
+round 120, starting client 6/10, id: 11
+round 120, starting client 7/10, id: 6
+round 120, starting client 8/10, id: 38
+round 120, starting client 9/10, id: 43
+round 120, starting client 10/10, id: 97
+round 120, validation acc: 0.9463
+starting round 121
+clients:  [92 94  7 90  9 10 31 15 75  2]
+round 121, starting client 1/10, id: 92
+round 121, starting client 2/10, id: 94
+round 121, starting client 3/10, id: 7
+round 121, starting client 4/10, id: 90
+round 121, starting client 5/10, id: 9
+round 121, starting client 6/10, id: 10
+round 121, starting client 7/10, id: 31
+round 121, starting client 8/10, id: 15
+round 121, starting client 9/10, id: 75
+round 121, starting client 10/10, id: 2
+round 121, validation acc: 0.9358
+starting round 122
+clients:  [84 78 53 31 75 65  0 59 12 87]
+round 122, starting client 1/10, id: 84
+round 122, starting client 2/10, id: 78
+round 122, starting client 3/10, id: 53
+round 122, starting client 4/10, id: 31
+round 122, starting client 5/10, id: 75
+round 122, starting client 6/10, id: 65
+round 122, starting client 7/10, id: 0
+round 122, starting client 8/10, id: 59
+round 122, starting client 9/10, id: 12
+round 122, starting client 10/10, id: 87
+round 122, validation acc: 0.9536
+starting round 123
+clients:  [40 42 80  4 21 30 28 54 91 38]
+round 123, starting client 1/10, id: 40
+round 123, starting client 2/10, id: 42
+round 123, starting client 3/10, id: 80
+round 123, starting client 4/10, id: 4
+round 123, starting client 5/10, id: 21
+round 123, starting client 6/10, id: 30
+round 123, starting client 7/10, id: 28
+round 123, starting client 8/10, id: 54
+round 123, starting client 9/10, id: 91
+round 123, starting client 10/10, id: 38
+round 123, validation acc: 0.9602
+starting round 124
+clients:  [81 97 21 51 78 48 94 63 30 79]
+round 124, starting client 1/10, id: 81
+round 124, starting client 2/10, id: 97
+round 124, starting client 3/10, id: 21
+round 124, starting client 4/10, id: 51
+round 124, starting client 5/10, id: 78
+round 124, starting client 6/10, id: 48
+round 124, starting client 7/10, id: 94
+round 124, starting client 8/10, id: 63
+round 124, starting client 9/10, id: 30
+round 124, starting client 10/10, id: 79
+round 124, validation acc: 0.9426
+starting round 125
+clients:  [98 17 52  9 71 66 72 99 91 14]
+round 125, starting client 1/10, id: 98
+round 125, starting client 2/10, id: 17
+round 125, starting client 3/10, id: 52
+round 125, starting client 4/10, id: 9
+round 125, starting client 5/10, id: 71
+round 125, starting client 6/10, id: 66
+round 125, starting client 7/10, id: 72
+round 125, starting client 8/10, id: 99
+round 125, starting client 9/10, id: 91
+round 125, starting client 10/10, id: 14
+round 125, validation acc: 0.9487
+starting round 126
+clients:  [72 86 14 90 49 92 59 21 73 25]
+round 126, starting client 1/10, id: 72
+round 126, starting client 2/10, id: 86
+round 126, starting client 3/10, id: 14
+round 126, starting client 4/10, id: 90
+round 126, starting client 5/10, id: 49
+round 126, starting client 6/10, id: 92
+round 126, starting client 7/10, id: 59
+round 126, starting client 8/10, id: 21
+round 126, starting client 9/10, id: 73
+round 126, starting client 10/10, id: 25
+round 126, validation acc: 0.9553
+starting round 127
+clients:  [95 31 78 66 97 94 84 44 56 64]
+round 127, starting client 1/10, id: 95
+round 127, starting client 2/10, id: 31
+round 127, starting client 3/10, id: 78
+round 127, starting client 4/10, id: 66
+round 127, starting client 5/10, id: 97
+round 127, starting client 6/10, id: 94
+round 127, starting client 7/10, id: 84
+round 127, starting client 8/10, id: 44
+round 127, starting client 9/10, id: 56
+round 127, starting client 10/10, id: 64
+round 127, validation acc: 0.953
+starting round 128
+clients:  [71 68  6 33 24 98 49 43 94 80]
+round 128, starting client 1/10, id: 71
+round 128, starting client 2/10, id: 68
+round 128, starting client 3/10, id: 6
+round 128, starting client 4/10, id: 33
+round 128, starting client 5/10, id: 24
+round 128, starting client 6/10, id: 98
+round 128, starting client 7/10, id: 49
+round 128, starting client 8/10, id: 43
+round 128, starting client 9/10, id: 94
+round 128, starting client 10/10, id: 80
+round 128, validation acc: 0.9614
+starting round 129
+clients:  [80 82 68 19 37 23 20 75 45 21]
+round 129, starting client 1/10, id: 80
+round 129, starting client 2/10, id: 82
+round 129, starting client 3/10, id: 68
+round 129, starting client 4/10, id: 19
+round 129, starting client 5/10, id: 37
+round 129, starting client 6/10, id: 23
+round 129, starting client 7/10, id: 20
+round 129, starting client 8/10, id: 75
+round 129, starting client 9/10, id: 45
+round 129, starting client 10/10, id: 21
+round 129, validation acc: 0.9562
+starting round 130
+clients:  [60 94 89 88 51 29  1 48 25 18]
+round 130, starting client 1/10, id: 60
+round 130, starting client 2/10, id: 94
+round 130, starting client 3/10, id: 89
+round 130, starting client 4/10, id: 88
+round 130, starting client 5/10, id: 51
+round 130, starting client 6/10, id: 29
+round 130, starting client 7/10, id: 1
+round 130, starting client 8/10, id: 48
+round 130, starting client 9/10, id: 25
+round 130, starting client 10/10, id: 18
+round 130, validation acc: 0.9624
+starting round 131
+clients:  [76 67 20 12 79  2 47 98 30 59]
+round 131, starting client 1/10, id: 76
+round 131, starting client 2/10, id: 67
+round 131, starting client 3/10, id: 20
+round 131, starting client 4/10, id: 12
+round 131, starting client 5/10, id: 79
+round 131, starting client 6/10, id: 2
+round 131, starting client 7/10, id: 47
+round 131, starting client 8/10, id: 98
+round 131, starting client 9/10, id: 30
+round 131, starting client 10/10, id: 59
+round 131, validation acc: 0.9528
+starting round 132
+clients:  [83  1 70 48 69 17 27 31 19 16]
+round 132, starting client 1/10, id: 83
+round 132, starting client 2/10, id: 1
+round 132, starting client 3/10, id: 70
+round 132, starting client 4/10, id: 48
+round 132, starting client 5/10, id: 69
+round 132, starting client 6/10, id: 17
+round 132, starting client 7/10, id: 27
+round 132, starting client 8/10, id: 31
+round 132, starting client 9/10, id: 19
+round 132, starting client 10/10, id: 16
+round 132, validation acc: 0.9613
+starting round 133
+clients:  [21 55 90 83 28 29 77 33 59  0]
+round 133, starting client 1/10, id: 21
+round 133, starting client 2/10, id: 55
+round 133, starting client 3/10, id: 90
+round 133, starting client 4/10, id: 83
+round 133, starting client 5/10, id: 28
+round 133, starting client 6/10, id: 29
+round 133, starting client 7/10, id: 77
+round 133, starting client 8/10, id: 33
+round 133, starting client 9/10, id: 59
+round 133, starting client 10/10, id: 0
+round 133, validation acc: 0.9637
+starting round 134
+clients:  [ 9  0 72 66 71  3 85 31 36 11]
+round 134, starting client 1/10, id: 9
+round 134, starting client 2/10, id: 0
+round 134, starting client 3/10, id: 72
+round 134, starting client 4/10, id: 66
+round 134, starting client 5/10, id: 71
+round 134, starting client 6/10, id: 3
+round 134, starting client 7/10, id: 85
+round 134, starting client 8/10, id: 31
+round 134, starting client 9/10, id: 36
+round 134, starting client 10/10, id: 11
+round 134, validation acc: 0.9624
+starting round 135
+clients:  [48 30 44 76 33 74 87 38 66 43]
+round 135, starting client 1/10, id: 48
+round 135, starting client 2/10, id: 30
+round 135, starting client 3/10, id: 44
+round 135, starting client 4/10, id: 76
+round 135, starting client 5/10, id: 33
+round 135, starting client 6/10, id: 74
+round 135, starting client 7/10, id: 87
+round 135, starting client 8/10, id: 38
+round 135, starting client 9/10, id: 66
+round 135, starting client 10/10, id: 43
+round 135, validation acc: 0.9479
+starting round 136
+clients:  [ 0 89 16 99  1 41  9 10 48 86]
+round 136, starting client 1/10, id: 0
+round 136, starting client 2/10, id: 89
+round 136, starting client 3/10, id: 16
+round 136, starting client 4/10, id: 99
+round 136, starting client 5/10, id: 1
+round 136, starting client 6/10, id: 41
+round 136, starting client 7/10, id: 9
+round 136, starting client 8/10, id: 10
+round 136, starting client 9/10, id: 48
+round 136, starting client 10/10, id: 86
+round 136, validation acc: 0.9536
+starting round 137
+clients:  [96 56 68  4 19 51  5 20 34 59]
+round 137, starting client 1/10, id: 96
+round 137, starting client 2/10, id: 56
+round 137, starting client 3/10, id: 68
+round 137, starting client 4/10, id: 4
+round 137, starting client 5/10, id: 19
+round 137, starting client 6/10, id: 51
+round 137, starting client 7/10, id: 5
+round 137, starting client 8/10, id: 20
+round 137, starting client 9/10, id: 34
+round 137, starting client 10/10, id: 59
+round 137, validation acc: 0.9443
+starting round 138
+clients:  [50 71 42 76 38 63 37 26 46 74]
+round 138, starting client 1/10, id: 50
+round 138, starting client 2/10, id: 71
+round 138, starting client 3/10, id: 42
+round 138, starting client 4/10, id: 76
+round 138, starting client 5/10, id: 38
+round 138, starting client 6/10, id: 63
+round 138, starting client 7/10, id: 37
+round 138, starting client 8/10, id: 26
+round 138, starting client 9/10, id: 46
+round 138, starting client 10/10, id: 74
+round 138, validation acc: 0.9464
+starting round 139
+clients:  [60 86 96 99 37  0 72 42 87 26]
+round 139, starting client 1/10, id: 60
+round 139, starting client 2/10, id: 86
+round 139, starting client 3/10, id: 96
+round 139, starting client 4/10, id: 99
+round 139, starting client 5/10, id: 37
+round 139, starting client 6/10, id: 0
+round 139, starting client 7/10, id: 72
+round 139, starting client 8/10, id: 42
+round 139, starting client 9/10, id: 87
+round 139, starting client 10/10, id: 26
+round 139, validation acc: 0.9493
+starting round 140
+clients:  [74 90 66 56 57 45 35 50 39 24]
+round 140, starting client 1/10, id: 74
+round 140, starting client 2/10, id: 90
+round 140, starting client 3/10, id: 66
+round 140, starting client 4/10, id: 56
+round 140, starting client 5/10, id: 57
+round 140, starting client 6/10, id: 45
+round 140, starting client 7/10, id: 35
+round 140, starting client 8/10, id: 50
+round 140, starting client 9/10, id: 39
+round 140, starting client 10/10, id: 24
+round 140, validation acc: 0.9499
+starting round 141
+clients:  [27 47 74 86 97 30  4 90 26 91]
+round 141, starting client 1/10, id: 27
+round 141, starting client 2/10, id: 47
+round 141, starting client 3/10, id: 74
+round 141, starting client 4/10, id: 86
+round 141, starting client 5/10, id: 97
+round 141, starting client 6/10, id: 30
+round 141, starting client 7/10, id: 4
+round 141, starting client 8/10, id: 90
+round 141, starting client 9/10, id: 26
+round 141, starting client 10/10, id: 91
+round 141, validation acc: 0.95
+starting round 142
+clients:  [57 45  9 13 61 56 46 59 80 54]
+round 142, starting client 1/10, id: 57
+round 142, starting client 2/10, id: 45
+round 142, starting client 3/10, id: 9
+round 142, starting client 4/10, id: 13
+round 142, starting client 5/10, id: 61
+round 142, starting client 6/10, id: 56
+round 142, starting client 7/10, id: 46
+round 142, starting client 8/10, id: 59
+round 142, starting client 9/10, id: 80
+round 142, starting client 10/10, id: 54
+round 142, validation acc: 0.9574
+starting round 143
+clients:  [83 92 11 96 50 12 37 13 68 49]
+round 143, starting client 1/10, id: 83
+round 143, starting client 2/10, id: 92
+round 143, starting client 3/10, id: 11
+round 143, starting client 4/10, id: 96
+round 143, starting client 5/10, id: 50
+round 143, starting client 6/10, id: 12
+round 143, starting client 7/10, id: 37
+round 143, starting client 8/10, id: 13
+round 143, starting client 9/10, id: 68
+round 143, starting client 10/10, id: 49
+round 143, validation acc: 0.9508
+starting round 144
+clients:  [75 18  5 87 19 81 11 68 64 48]
+round 144, starting client 1/10, id: 75
+round 144, starting client 2/10, id: 18
+round 144, starting client 3/10, id: 5
+round 144, starting client 4/10, id: 87
+round 144, starting client 5/10, id: 19
+round 144, starting client 6/10, id: 81
+round 144, starting client 7/10, id: 11
+round 144, starting client 8/10, id: 68
+round 144, starting client 9/10, id: 64
+round 144, starting client 10/10, id: 48
+round 144, validation acc: 0.9493
+starting round 145
+clients:  [48 80 60 66 99 19 73 41 39 67]
+round 145, starting client 1/10, id: 48
+round 145, starting client 2/10, id: 80
+round 145, starting client 3/10, id: 60
+round 145, starting client 4/10, id: 66
+round 145, starting client 5/10, id: 99
+round 145, starting client 6/10, id: 19
+round 145, starting client 7/10, id: 73
+round 145, starting client 8/10, id: 41
+round 145, starting client 9/10, id: 39
+round 145, starting client 10/10, id: 67
+round 145, validation acc: 0.9569
+starting round 146
+clients:  [21 46 77  4 34 35 83 85 69  3]
+round 146, starting client 1/10, id: 21
+round 146, starting client 2/10, id: 46
+round 146, starting client 3/10, id: 77
+round 146, starting client 4/10, id: 4
+round 146, starting client 5/10, id: 34
+round 146, starting client 6/10, id: 35
+round 146, starting client 7/10, id: 83
+round 146, starting client 8/10, id: 85
+round 146, starting client 9/10, id: 69
+round 146, starting client 10/10, id: 3
+round 146, validation acc: 0.9633
+starting round 147
+clients:  [30  0  8 16 97 40 64  2 48  3]
+round 147, starting client 1/10, id: 30
+round 147, starting client 2/10, id: 0
+round 147, starting client 3/10, id: 8
+round 147, starting client 4/10, id: 16
+round 147, starting client 5/10, id: 97
+round 147, starting client 6/10, id: 40
+round 147, starting client 7/10, id: 64
+round 147, starting client 8/10, id: 2
+round 147, starting client 9/10, id: 48
+round 147, starting client 10/10, id: 3
+round 147, validation acc: 0.95
+starting round 148
+clients:  [67 21 26 96 79 10 52 70 25 64]
+round 148, starting client 1/10, id: 67
+round 148, starting client 2/10, id: 21
+round 148, starting client 3/10, id: 26
+round 148, starting client 4/10, id: 96
+round 148, starting client 5/10, id: 79
+round 148, starting client 6/10, id: 10
+round 148, starting client 7/10, id: 52
+round 148, starting client 8/10, id: 70
+round 148, starting client 9/10, id: 25
+round 148, starting client 10/10, id: 64
+round 148, validation acc: 0.9444
+starting round 149
+clients:  [91 80 10 49 83 17 96 86 74 65]
+round 149, starting client 1/10, id: 91
+round 149, starting client 2/10, id: 80
+round 149, starting client 3/10, id: 10
+round 149, starting client 4/10, id: 49
+round 149, starting client 5/10, id: 83
+round 149, starting client 6/10, id: 17
+round 149, starting client 7/10, id: 96
+round 149, starting client 8/10, id: 86
+round 149, starting client 9/10, id: 74
+round 149, starting client 10/10, id: 65
+round 149, validation acc: 0.963
+starting round 150
+clients:  [67 58 15 11 55 22 90 93 89 79]
+round 150, starting client 1/10, id: 67
+round 150, starting client 2/10, id: 58
+round 150, starting client 3/10, id: 15
+round 150, starting client 4/10, id: 11
+round 150, starting client 5/10, id: 55
+round 150, starting client 6/10, id: 22
+round 150, starting client 7/10, id: 90
+round 150, starting client 8/10, id: 93
+round 150, starting client 9/10, id: 89
+round 150, starting client 10/10, id: 79
+round 150, validation acc: 0.9638
+starting round 151
+clients:  [62 47 69 70 82  5 20  7 85 92]
+round 151, starting client 1/10, id: 62
+round 151, starting client 2/10, id: 47
+round 151, starting client 3/10, id: 69
+round 151, starting client 4/10, id: 70
+round 151, starting client 5/10, id: 82
+round 151, starting client 6/10, id: 5
+round 151, starting client 7/10, id: 20
+round 151, starting client 8/10, id: 7
+round 151, starting client 9/10, id: 85
+round 151, starting client 10/10, id: 92
+round 151, validation acc: 0.9557
+starting round 152
+clients:  [80 26  9 40 49 63 76 88 82 24]
+round 152, starting client 1/10, id: 80
+round 152, starting client 2/10, id: 26
+round 152, starting client 3/10, id: 9
+round 152, starting client 4/10, id: 40
+round 152, starting client 5/10, id: 49
+round 152, starting client 6/10, id: 63
+round 152, starting client 7/10, id: 76
+round 152, starting client 8/10, id: 88
+round 152, starting client 9/10, id: 82
+round 152, starting client 10/10, id: 24
+round 152, validation acc: 0.9576
+starting round 153
+clients:  [34 71 74 65 12 53 69 43  4 82]
+round 153, starting client 1/10, id: 34
+round 153, starting client 2/10, id: 71
+round 153, starting client 3/10, id: 74
+round 153, starting client 4/10, id: 65
+round 153, starting client 5/10, id: 12
+round 153, starting client 6/10, id: 53
+round 153, starting client 7/10, id: 69
+round 153, starting client 8/10, id: 43
+round 153, starting client 9/10, id: 4
+round 153, starting client 10/10, id: 82
+round 153, validation acc: 0.962
+starting round 154
+clients:  [51 24 21 18 64 54 41 62 36 53]
+round 154, starting client 1/10, id: 51
+round 154, starting client 2/10, id: 24
+round 154, starting client 3/10, id: 21
+round 154, starting client 4/10, id: 18
+round 154, starting client 5/10, id: 64
+round 154, starting client 6/10, id: 54
+round 154, starting client 7/10, id: 41
+round 154, starting client 8/10, id: 62
+round 154, starting client 9/10, id: 36
+round 154, starting client 10/10, id: 53
+round 154, validation acc: 0.9632
+starting round 155
+clients:  [57 53 26 80 93 38 46  8 20  0]
+round 155, starting client 1/10, id: 57
+round 155, starting client 2/10, id: 53
+round 155, starting client 3/10, id: 26
+round 155, starting client 4/10, id: 80
+round 155, starting client 5/10, id: 93
+round 155, starting client 6/10, id: 38
+round 155, starting client 7/10, id: 46
+round 155, starting client 8/10, id: 8
+round 155, starting client 9/10, id: 20
+round 155, starting client 10/10, id: 0
+round 155, validation acc: 0.959
+starting round 156
+clients:  [82 74 49 39 66 60 79 23 34 98]
+round 156, starting client 1/10, id: 82
+round 156, starting client 2/10, id: 74
+round 156, starting client 3/10, id: 49
+round 156, starting client 4/10, id: 39
+round 156, starting client 5/10, id: 66
+round 156, starting client 6/10, id: 60
+round 156, starting client 7/10, id: 79
+round 156, starting client 8/10, id: 23
+round 156, starting client 9/10, id: 34
+round 156, starting client 10/10, id: 98
+round 156, validation acc: 0.9617
+starting round 157
+clients:  [75 51 56  7 62 67 72 20 88 81]
+round 157, starting client 1/10, id: 75
+round 157, starting client 2/10, id: 51
+round 157, starting client 3/10, id: 56
+round 157, starting client 4/10, id: 7
+round 157, starting client 5/10, id: 62
+round 157, starting client 6/10, id: 67
+round 157, starting client 7/10, id: 72
+round 157, starting client 8/10, id: 20
+round 157, starting client 9/10, id: 88
+round 157, starting client 10/10, id: 81
+round 157, validation acc: 0.9585
+starting round 158
+clients:  [95 71 92 68  2 88 61 45 14 89]
+round 158, starting client 1/10, id: 95
+round 158, starting client 2/10, id: 71
+round 158, starting client 3/10, id: 92
+round 158, starting client 4/10, id: 68
+round 158, starting client 5/10, id: 2
+round 158, starting client 6/10, id: 88
+round 158, starting client 7/10, id: 61
+round 158, starting client 8/10, id: 45
+round 158, starting client 9/10, id: 14
+round 158, starting client 10/10, id: 89
+round 158, validation acc: 0.9568
+starting round 159
+clients:  [91 37 71 68 97 96 15 31 43 90]
+round 159, starting client 1/10, id: 91
+round 159, starting client 2/10, id: 37
+round 159, starting client 3/10, id: 71
+round 159, starting client 4/10, id: 68
+round 159, starting client 5/10, id: 97
+round 159, starting client 6/10, id: 96
+round 159, starting client 7/10, id: 15
+round 159, starting client 8/10, id: 31
+round 159, starting client 9/10, id: 43
+round 159, starting client 10/10, id: 90
+round 159, validation acc: 0.9562
+starting round 160
+clients:  [69  7 54 57 31 13 63 80  6 18]
+round 160, starting client 1/10, id: 69
+round 160, starting client 2/10, id: 7
+round 160, starting client 3/10, id: 54
+round 160, starting client 4/10, id: 57
+round 160, starting client 5/10, id: 31
+round 160, starting client 6/10, id: 13
+round 160, starting client 7/10, id: 63
+round 160, starting client 8/10, id: 80
+round 160, starting client 9/10, id: 6
+round 160, starting client 10/10, id: 18
+round 160, validation acc: 0.9586
+starting round 161
+clients:  [93 92 43 61 17 42 98 13 20  7]
+round 161, starting client 1/10, id: 93
+round 161, starting client 2/10, id: 92
+round 161, starting client 3/10, id: 43
+round 161, starting client 4/10, id: 61
+round 161, starting client 5/10, id: 17
+round 161, starting client 6/10, id: 42
+round 161, starting client 7/10, id: 98
+round 161, starting client 8/10, id: 13
+round 161, starting client 9/10, id: 20
+round 161, starting client 10/10, id: 7
+round 161, validation acc: 0.9645
+starting round 162
+clients:  [95 81 19 17 30 94 56  2 14 10]
+round 162, starting client 1/10, id: 95
+round 162, starting client 2/10, id: 81
+round 162, starting client 3/10, id: 19
+round 162, starting client 4/10, id: 17
+round 162, starting client 5/10, id: 30
+round 162, starting client 6/10, id: 94
+round 162, starting client 7/10, id: 56
+round 162, starting client 8/10, id: 2
+round 162, starting client 9/10, id: 14
+round 162, starting client 10/10, id: 10
+round 162, validation acc: 0.9592
+starting round 163
+clients:  [76 63 43 84 71 11 19  8 46  7]
+round 163, starting client 1/10, id: 76
+round 163, starting client 2/10, id: 63
+round 163, starting client 3/10, id: 43
+round 163, starting client 4/10, id: 84
+round 163, starting client 5/10, id: 71
+round 163, starting client 6/10, id: 11
+round 163, starting client 7/10, id: 19
+round 163, starting client 8/10, id: 8
+round 163, starting client 9/10, id: 46
+round 163, starting client 10/10, id: 7
+round 163, validation acc: 0.9609
+starting round 164
+clients:  [35 43 40 87 60 56 11 66 63 17]
+round 164, starting client 1/10, id: 35
+round 164, starting client 2/10, id: 43
+round 164, starting client 3/10, id: 40
+round 164, starting client 4/10, id: 87
+round 164, starting client 5/10, id: 60
+round 164, starting client 6/10, id: 56
+round 164, starting client 7/10, id: 11
+round 164, starting client 8/10, id: 66
+round 164, starting client 9/10, id: 63
+round 164, starting client 10/10, id: 17
+round 164, validation acc: 0.9493
+starting round 165
+clients:  [13 58 83 92  4 46 49 52 80 26]
+round 165, starting client 1/10, id: 13
+round 165, starting client 2/10, id: 58
+round 165, starting client 3/10, id: 83
+round 165, starting client 4/10, id: 92
+round 165, starting client 5/10, id: 4
+round 165, starting client 6/10, id: 46
+round 165, starting client 7/10, id: 49
+round 165, starting client 8/10, id: 52
+round 165, starting client 9/10, id: 80
+round 165, starting client 10/10, id: 26
+round 165, validation acc: 0.9495
+starting round 166
+clients:  [63 55 56 79 68 45 11 84 97 75]
+round 166, starting client 1/10, id: 63
+round 166, starting client 2/10, id: 55
+round 166, starting client 3/10, id: 56
+round 166, starting client 4/10, id: 79
+round 166, starting client 5/10, id: 68
+round 166, starting client 6/10, id: 45
+round 166, starting client 7/10, id: 11
+round 166, starting client 8/10, id: 84
+round 166, starting client 9/10, id: 97
+round 166, starting client 10/10, id: 75
+round 166, validation acc: 0.9608
+starting round 167
+clients:  [70 65 77 93 73 43 71 25 49 18]
+round 167, starting client 1/10, id: 70
+round 167, starting client 2/10, id: 65
+round 167, starting client 3/10, id: 77
+round 167, starting client 4/10, id: 93
+round 167, starting client 5/10, id: 73
+round 167, starting client 6/10, id: 43
+round 167, starting client 7/10, id: 71
+round 167, starting client 8/10, id: 25
+round 167, starting client 9/10, id: 49
+round 167, starting client 10/10, id: 18
+round 167, validation acc: 0.9623
+starting round 168
+clients:  [81 21 20 41 31 96 85 11 83 87]
+round 168, starting client 1/10, id: 81
+round 168, starting client 2/10, id: 21
+round 168, starting client 3/10, id: 20
+round 168, starting client 4/10, id: 41
+round 168, starting client 5/10, id: 31
+round 168, starting client 6/10, id: 96
+round 168, starting client 7/10, id: 85
+round 168, starting client 8/10, id: 11
+round 168, starting client 9/10, id: 83
+round 168, starting client 10/10, id: 87
+round 168, validation acc: 0.9677
+starting round 169
+clients:  [30 20 87 62 77 42 34 18 73 63]
+round 169, starting client 1/10, id: 30
+round 169, starting client 2/10, id: 20
+round 169, starting client 3/10, id: 87
+round 169, starting client 4/10, id: 62
+round 169, starting client 5/10, id: 77
+round 169, starting client 6/10, id: 42
+round 169, starting client 7/10, id: 34
+round 169, starting client 8/10, id: 18
+round 169, starting client 9/10, id: 73
+round 169, starting client 10/10, id: 63
+round 169, validation acc: 0.965
+starting round 170
+clients:  [80 86 62 89 23 18 72 83 24 81]
+round 170, starting client 1/10, id: 80
+round 170, starting client 2/10, id: 86
+round 170, starting client 3/10, id: 62
+round 170, starting client 4/10, id: 89
+round 170, starting client 5/10, id: 23
+round 170, starting client 6/10, id: 18
+round 170, starting client 7/10, id: 72
+round 170, starting client 8/10, id: 83
+round 170, starting client 9/10, id: 24
+round 170, starting client 10/10, id: 81
+round 170, validation acc: 0.964
+starting round 171
+clients:  [12 78  1 33 98 61 30 89 73 10]
+round 171, starting client 1/10, id: 12
+round 171, starting client 2/10, id: 78
+round 171, starting client 3/10, id: 1
+round 171, starting client 4/10, id: 33
+round 171, starting client 5/10, id: 98
+round 171, starting client 6/10, id: 61
+round 171, starting client 7/10, id: 30
+round 171, starting client 8/10, id: 89
+round 171, starting client 9/10, id: 73
+round 171, starting client 10/10, id: 10
+round 171, validation acc: 0.9629
+starting round 172
+clients:  [85 42 71 33 72 86 98  5 43 10]
+round 172, starting client 1/10, id: 85
+round 172, starting client 2/10, id: 42
+round 172, starting client 3/10, id: 71
+round 172, starting client 4/10, id: 33
+round 172, starting client 5/10, id: 72
+round 172, starting client 6/10, id: 86
+round 172, starting client 7/10, id: 98
+round 172, starting client 8/10, id: 5
+round 172, starting client 9/10, id: 43
+round 172, starting client 10/10, id: 10
+round 172, validation acc: 0.9613
+starting round 173
+clients:  [79 48 55 21 75 40 54 91 90 84]
+round 173, starting client 1/10, id: 79
+round 173, starting client 2/10, id: 48
+round 173, starting client 3/10, id: 55
+round 173, starting client 4/10, id: 21
+round 173, starting client 5/10, id: 75
+round 173, starting client 6/10, id: 40
+round 173, starting client 7/10, id: 54
+round 173, starting client 8/10, id: 91
+round 173, starting client 9/10, id: 90
+round 173, starting client 10/10, id: 84
+round 173, validation acc: 0.9653
+starting round 174
+clients:  [22 11  2 99 90 54 77 50 65 16]
+round 174, starting client 1/10, id: 22
+round 174, starting client 2/10, id: 11
+round 174, starting client 3/10, id: 2
+round 174, starting client 4/10, id: 99
+round 174, starting client 5/10, id: 90
+round 174, starting client 6/10, id: 54
+round 174, starting client 7/10, id: 77
+round 174, starting client 8/10, id: 50
+round 174, starting client 9/10, id: 65
+round 174, starting client 10/10, id: 16
+round 174, validation acc: 0.955
+starting round 175
+clients:  [ 2 86 50 69 10  3 11 94 35 30]
+round 175, starting client 1/10, id: 2
+round 175, starting client 2/10, id: 86
+round 175, starting client 3/10, id: 50
+round 175, starting client 4/10, id: 69
+round 175, starting client 5/10, id: 10
+round 175, starting client 6/10, id: 3
+round 175, starting client 7/10, id: 11
+round 175, starting client 8/10, id: 94
+round 175, starting client 9/10, id: 35
+round 175, starting client 10/10, id: 30
+round 175, validation acc: 0.951
+starting round 176
+clients:  [33 54 71 49 70 95  9 63 26 62]
+round 176, starting client 1/10, id: 33
+round 176, starting client 2/10, id: 54
+round 176, starting client 3/10, id: 71
+round 176, starting client 4/10, id: 49
+round 176, starting client 5/10, id: 70
+round 176, starting client 6/10, id: 95
+round 176, starting client 7/10, id: 9
+round 176, starting client 8/10, id: 63
+round 176, starting client 9/10, id: 26
+round 176, starting client 10/10, id: 62
+round 176, validation acc: 0.9551
+starting round 177
+clients:  [51 77 84 65  8 96 18 85 44 42]
+round 177, starting client 1/10, id: 51
+round 177, starting client 2/10, id: 77
+round 177, starting client 3/10, id: 84
+round 177, starting client 4/10, id: 65
+round 177, starting client 5/10, id: 8
+round 177, starting client 6/10, id: 96
+round 177, starting client 7/10, id: 18
+round 177, starting client 8/10, id: 85
+round 177, starting client 9/10, id: 44
+round 177, starting client 10/10, id: 42
+round 177, validation acc: 0.9619
+starting round 178
+clients:  [80 66 92 84 47  2 19 61 30 44]
+round 178, starting client 1/10, id: 80
+round 178, starting client 2/10, id: 66
+round 178, starting client 3/10, id: 92
+round 178, starting client 4/10, id: 84
+round 178, starting client 5/10, id: 47
+round 178, starting client 6/10, id: 2
+round 178, starting client 7/10, id: 19
+round 178, starting client 8/10, id: 61
+round 178, starting client 9/10, id: 30
+round 178, starting client 10/10, id: 44
+round 178, validation acc: 0.966
+starting round 179
+clients:  [34 58 42  7  0 22 97 81 37 79]
+round 179, starting client 1/10, id: 34
+round 179, starting client 2/10, id: 58
+round 179, starting client 3/10, id: 42
+round 179, starting client 4/10, id: 7
+round 179, starting client 5/10, id: 0
+round 179, starting client 6/10, id: 22
+round 179, starting client 7/10, id: 97
+round 179, starting client 8/10, id: 81
+round 179, starting client 9/10, id: 37
+round 179, starting client 10/10, id: 79
+round 179, validation acc: 0.9685
+starting round 180
+clients:  [12 64 30 82 20  8 33 14 27 21]
+round 180, starting client 1/10, id: 12
+round 180, starting client 2/10, id: 64
+round 180, starting client 3/10, id: 30
+round 180, starting client 4/10, id: 82
+round 180, starting client 5/10, id: 20
+round 180, starting client 6/10, id: 8
+round 180, starting client 7/10, id: 33
+round 180, starting client 8/10, id: 14
+round 180, starting client 9/10, id: 27
+round 180, starting client 10/10, id: 21
+round 180, validation acc: 0.9618
+starting round 181
+clients:  [69 80 37 66 83 20 19 70 78 98]
+round 181, starting client 1/10, id: 69
+round 181, starting client 2/10, id: 80
+round 181, starting client 3/10, id: 37
+round 181, starting client 4/10, id: 66
+round 181, starting client 5/10, id: 83
+round 181, starting client 6/10, id: 20
+round 181, starting client 7/10, id: 19
+round 181, starting client 8/10, id: 70
+round 181, starting client 9/10, id: 78
+round 181, starting client 10/10, id: 98
+round 181, validation acc: 0.9577
+starting round 182
+clients:  [97 43 69  9 50 32 20 79 61 13]
+round 182, starting client 1/10, id: 97
+round 182, starting client 2/10, id: 43
+round 182, starting client 3/10, id: 69
+round 182, starting client 4/10, id: 9
+round 182, starting client 5/10, id: 50
+round 182, starting client 6/10, id: 32
+round 182, starting client 7/10, id: 20
+round 182, starting client 8/10, id: 79
+round 182, starting client 9/10, id: 61
+round 182, starting client 10/10, id: 13
+round 182, validation acc: 0.9579
+starting round 183
+clients:  [36 76 28  4 41 66 96 61 84 82]
+round 183, starting client 1/10, id: 36
+round 183, starting client 2/10, id: 76
+round 183, starting client 3/10, id: 28
+round 183, starting client 4/10, id: 4
+round 183, starting client 5/10, id: 41
+round 183, starting client 6/10, id: 66
+round 183, starting client 7/10, id: 96
+round 183, starting client 8/10, id: 61
+round 183, starting client 9/10, id: 84
+round 183, starting client 10/10, id: 82
+round 183, validation acc: 0.9641
+starting round 184
+clients:  [62 81 59 15 47  4 65 33 80  3]
+round 184, starting client 1/10, id: 62
+round 184, starting client 2/10, id: 81
+round 184, starting client 3/10, id: 59
+round 184, starting client 4/10, id: 15
+round 184, starting client 5/10, id: 47
+round 184, starting client 6/10, id: 4
+round 184, starting client 7/10, id: 65
+round 184, starting client 8/10, id: 33
+round 184, starting client 9/10, id: 80
+round 184, starting client 10/10, id: 3
+round 184, validation acc: 0.9667
+starting round 185
+clients:  [18  3 14 39  2 96 15 43 59 99]
+round 185, starting client 1/10, id: 18
+round 185, starting client 2/10, id: 3
+round 185, starting client 3/10, id: 14
+round 185, starting client 4/10, id: 39
+round 185, starting client 5/10, id: 2
+round 185, starting client 6/10, id: 96
+round 185, starting client 7/10, id: 15
+round 185, starting client 8/10, id: 43
+round 185, starting client 9/10, id: 59
+round 185, starting client 10/10, id: 99
+round 185, validation acc: 0.9598
+starting round 186
+clients:  [79 97 96 85 42 20 19 37  5 14]
+round 186, starting client 1/10, id: 79
+round 186, starting client 2/10, id: 97
+round 186, starting client 3/10, id: 96
+round 186, starting client 4/10, id: 85
+round 186, starting client 5/10, id: 42
+round 186, starting client 6/10, id: 20
+round 186, starting client 7/10, id: 19
+round 186, starting client 8/10, id: 37
+round 186, starting client 9/10, id: 5
+round 186, starting client 10/10, id: 14
+round 186, validation acc: 0.9643
+starting round 187
+clients:  [22 12 36 39 86 29 53 49 14 27]
+round 187, starting client 1/10, id: 22
+round 187, starting client 2/10, id: 12
+round 187, starting client 3/10, id: 36
+round 187, starting client 4/10, id: 39
+round 187, starting client 5/10, id: 86
+round 187, starting client 6/10, id: 29
+round 187, starting client 7/10, id: 53
+round 187, starting client 8/10, id: 49
+round 187, starting client 9/10, id: 14
+round 187, starting client 10/10, id: 27
+round 187, validation acc: 0.9678
+starting round 188
+clients:  [46 72 58 21 94 95 80 35 63 69]
+round 188, starting client 1/10, id: 46
+round 188, starting client 2/10, id: 72
+round 188, starting client 3/10, id: 58
+round 188, starting client 4/10, id: 21
+round 188, starting client 5/10, id: 94
+round 188, starting client 6/10, id: 95
+round 188, starting client 7/10, id: 80
+round 188, starting client 8/10, id: 35
+round 188, starting client 9/10, id: 63
+round 188, starting client 10/10, id: 69
+round 188, validation acc: 0.9664
+starting round 189
+clients:  [56 71 49 60 91  8 39  2 16 45]
+round 189, starting client 1/10, id: 56
+round 189, starting client 2/10, id: 71
+round 189, starting client 3/10, id: 49
+round 189, starting client 4/10, id: 60
+round 189, starting client 5/10, id: 91
+round 189, starting client 6/10, id: 8
+round 189, starting client 7/10, id: 39
+round 189, starting client 8/10, id: 2
+round 189, starting client 9/10, id: 16
+round 189, starting client 10/10, id: 45
+round 189, validation acc: 0.9576
+starting round 190
+clients:  [95 12 33 56  4 61 73 45 42 53]
+round 190, starting client 1/10, id: 95
+round 190, starting client 2/10, id: 12
+round 190, starting client 3/10, id: 33
+round 190, starting client 4/10, id: 56
+round 190, starting client 5/10, id: 4
+round 190, starting client 6/10, id: 61
+round 190, starting client 7/10, id: 73
+round 190, starting client 8/10, id: 45
+round 190, starting client 9/10, id: 42
+round 190, starting client 10/10, id: 53
+round 190, validation acc: 0.9678
+starting round 191
+clients:  [ 5 60 51 58 87  4 42 52 50 33]
+round 191, starting client 1/10, id: 5
+round 191, starting client 2/10, id: 60
+round 191, starting client 3/10, id: 51
+round 191, starting client 4/10, id: 58
+round 191, starting client 5/10, id: 87
+round 191, starting client 6/10, id: 4
+round 191, starting client 7/10, id: 42
+round 191, starting client 8/10, id: 52
+round 191, starting client 9/10, id: 50
+round 191, starting client 10/10, id: 33
+round 191, validation acc: 0.9666
+starting round 192
+clients:  [61 81  1 44 10 55 33 18 54 86]
+round 192, starting client 1/10, id: 61
+round 192, starting client 2/10, id: 81
+round 192, starting client 3/10, id: 1
+round 192, starting client 4/10, id: 44
+round 192, starting client 5/10, id: 10
+round 192, starting client 6/10, id: 55
+round 192, starting client 7/10, id: 33
+round 192, starting client 8/10, id: 18
+round 192, starting client 9/10, id: 54
+round 192, starting client 10/10, id: 86
+round 192, validation acc: 0.967
+starting round 193
+clients:  [49 14 97 85 75  6 66 38 91  7]
+round 193, starting client 1/10, id: 49
+round 193, starting client 2/10, id: 14
+round 193, starting client 3/10, id: 97
+round 193, starting client 4/10, id: 85
+round 193, starting client 5/10, id: 75
+round 193, starting client 6/10, id: 6
+round 193, starting client 7/10, id: 66
+round 193, starting client 8/10, id: 38
+round 193, starting client 9/10, id: 91
+round 193, starting client 10/10, id: 7
+round 193, validation acc: 0.9678
+starting round 194
+clients:  [86 85 49  7 18 59 32 62 14 58]
+round 194, starting client 1/10, id: 86
+round 194, starting client 2/10, id: 85
+round 194, starting client 3/10, id: 49
+round 194, starting client 4/10, id: 7
+round 194, starting client 5/10, id: 18
+round 194, starting client 6/10, id: 59
+round 194, starting client 7/10, id: 32
+round 194, starting client 8/10, id: 62
+round 194, starting client 9/10, id: 14
+round 194, starting client 10/10, id: 58
+round 194, validation acc: 0.964
+starting round 195
+clients:  [83 91 23 69  8 12 33 81 98 70]
+round 195, starting client 1/10, id: 83
+round 195, starting client 2/10, id: 91
+round 195, starting client 3/10, id: 23
+round 195, starting client 4/10, id: 69
+round 195, starting client 5/10, id: 8
+round 195, starting client 6/10, id: 12
+round 195, starting client 7/10, id: 33
+round 195, starting client 8/10, id: 81
+round 195, starting client 9/10, id: 98
+round 195, starting client 10/10, id: 70
+round 195, validation acc: 0.9669
+starting round 196
+clients:  [ 9 28 62 77 58 56  0 23 80 33]
+round 196, starting client 1/10, id: 9
+round 196, starting client 2/10, id: 28
+round 196, starting client 3/10, id: 62
+round 196, starting client 4/10, id: 77
+round 196, starting client 5/10, id: 58
+round 196, starting client 6/10, id: 56
+round 196, starting client 7/10, id: 0
+round 196, starting client 8/10, id: 23
+round 196, starting client 9/10, id: 80
+round 196, starting client 10/10, id: 33
+round 196, validation acc: 0.9626
+starting round 197
+clients:  [98 73 50 76 77 58 25 88 84 24]
+round 197, starting client 1/10, id: 98
+round 197, starting client 2/10, id: 73
+round 197, starting client 3/10, id: 50
+round 197, starting client 4/10, id: 76
+round 197, starting client 5/10, id: 77
+round 197, starting client 6/10, id: 58
+round 197, starting client 7/10, id: 25
+round 197, starting client 8/10, id: 88
+round 197, starting client 9/10, id: 84
+round 197, starting client 10/10, id: 24
+round 197, validation acc: 0.9637
+starting round 198
+clients:  [19 40 82 55 17 49 46 23 44 43]
+round 198, starting client 1/10, id: 19
+round 198, starting client 2/10, id: 40
+round 198, starting client 3/10, id: 82
+round 198, starting client 4/10, id: 55
+round 198, starting client 5/10, id: 17
+round 198, starting client 6/10, id: 49
+round 198, starting client 7/10, id: 46
+round 198, starting client 8/10, id: 23
+round 198, starting client 9/10, id: 44
+round 198, starting client 10/10, id: 43
+round 198, validation acc: 0.9618
+starting round 199
+clients:  [32 49 30 19 78 44 79 93  1 88]
+round 199, starting client 1/10, id: 32
+round 199, starting client 2/10, id: 49
+round 199, starting client 3/10, id: 30
+round 199, starting client 4/10, id: 19
+round 199, starting client 5/10, id: 78
+round 199, starting client 6/10, id: 44
+round 199, starting client 7/10, id: 79
+round 199, starting client 8/10, id: 93
+round 199, starting client 9/10, id: 1
+round 199, starting client 10/10, id: 88
+round 199, validation acc: 0.9645
+starting round 200
+clients:  [10 15 71 83 53  3 97 50 61 59]
+round 200, starting client 1/10, id: 10
+round 200, starting client 2/10, id: 15
+round 200, starting client 3/10, id: 71
+round 200, starting client 4/10, id: 83
+round 200, starting client 5/10, id: 53
+round 200, starting client 6/10, id: 3
+round 200, starting client 7/10, id: 97
+round 200, starting client 8/10, id: 50
+round 200, starting client 9/10, id: 61
+round 200, starting client 10/10, id: 59
+round 200, validation acc: 0.9654
+starting round 201
+clients:  [88 75 29  4  2 43 81 60 17 14]
+round 201, starting client 1/10, id: 88
+round 201, starting client 2/10, id: 75
+round 201, starting client 3/10, id: 29
+round 201, starting client 4/10, id: 4
+round 201, starting client 5/10, id: 2
+round 201, starting client 6/10, id: 43
+round 201, starting client 7/10, id: 81
+round 201, starting client 8/10, id: 60
+round 201, starting client 9/10, id: 17
+round 201, starting client 10/10, id: 14
+round 201, validation acc: 0.966
+starting round 202
+clients:  [71 29 11 81 34  8 94 30 64 96]
+round 202, starting client 1/10, id: 71
+round 202, starting client 2/10, id: 29
+round 202, starting client 3/10, id: 11
+round 202, starting client 4/10, id: 81
+round 202, starting client 5/10, id: 34
+round 202, starting client 6/10, id: 8
+round 202, starting client 7/10, id: 94
+round 202, starting client 8/10, id: 30
+round 202, starting client 9/10, id: 64
+round 202, starting client 10/10, id: 96
+round 202, validation acc: 0.9684
+starting round 203
+clients:  [47 31 54 11 29  5 74 15 69 76]
+round 203, starting client 1/10, id: 47
+round 203, starting client 2/10, id: 31
+round 203, starting client 3/10, id: 54
+round 203, starting client 4/10, id: 11
+round 203, starting client 5/10, id: 29
+round 203, starting client 6/10, id: 5
+round 203, starting client 7/10, id: 74
+round 203, starting client 8/10, id: 15
+round 203, starting client 9/10, id: 69
+round 203, starting client 10/10, id: 76
+round 203, validation acc: 0.9596
+starting round 204
+clients:  [66 54 14 76 43 47 57 63  7 96]
+round 204, starting client 1/10, id: 66
+round 204, starting client 2/10, id: 54
+round 204, starting client 3/10, id: 14
+round 204, starting client 4/10, id: 76
+round 204, starting client 5/10, id: 43
+round 204, starting client 6/10, id: 47
+round 204, starting client 7/10, id: 57
+round 204, starting client 8/10, id: 63
+round 204, starting client 9/10, id: 7
+round 204, starting client 10/10, id: 96
+round 204, validation acc: 0.9576
+starting round 205
+clients:  [ 3 58 72  5 51 27 34 18 48 24]
+round 205, starting client 1/10, id: 3
+round 205, starting client 2/10, id: 58
+round 205, starting client 3/10, id: 72
+round 205, starting client 4/10, id: 5
+round 205, starting client 5/10, id: 51
+round 205, starting client 6/10, id: 27
+round 205, starting client 7/10, id: 34
+round 205, starting client 8/10, id: 18
+round 205, starting client 9/10, id: 48
+round 205, starting client 10/10, id: 24
+round 205, validation acc: 0.9651
+starting round 206
+clients:  [45 27  3 55  8  6 54  7 20 50]
+round 206, starting client 1/10, id: 45
+round 206, starting client 2/10, id: 27
+round 206, starting client 3/10, id: 3
+round 206, starting client 4/10, id: 55
+round 206, starting client 5/10, id: 8
+round 206, starting client 6/10, id: 6
+round 206, starting client 7/10, id: 54
+round 206, starting client 8/10, id: 7
+round 206, starting client 9/10, id: 20
+round 206, starting client 10/10, id: 50
+round 206, validation acc: 0.9645
+starting round 207
+clients:  [57 27 33 41 88 10 16 28 75 17]
+round 207, starting client 1/10, id: 57
+round 207, starting client 2/10, id: 27
+round 207, starting client 3/10, id: 33
+round 207, starting client 4/10, id: 41
+round 207, starting client 5/10, id: 88
+round 207, starting client 6/10, id: 10
+round 207, starting client 7/10, id: 16
+round 207, starting client 8/10, id: 28
+round 207, starting client 9/10, id: 75
+round 207, starting client 10/10, id: 17
+round 207, validation acc: 0.9654
+starting round 208
+clients:  [58 23  2 48 51 82 67 38 62 72]
+round 208, starting client 1/10, id: 58
+round 208, starting client 2/10, id: 23
+round 208, starting client 3/10, id: 2
+round 208, starting client 4/10, id: 48
+round 208, starting client 5/10, id: 51
+round 208, starting client 6/10, id: 82
+round 208, starting client 7/10, id: 67
+round 208, starting client 8/10, id: 38
+round 208, starting client 9/10, id: 62
+round 208, starting client 10/10, id: 72
+round 208, validation acc: 0.9629
+starting round 209
+clients:  [37 95 63 75 57  5 28 81 15 47]
+round 209, starting client 1/10, id: 37
+round 209, starting client 2/10, id: 95
+round 209, starting client 3/10, id: 63
+round 209, starting client 4/10, id: 75
+round 209, starting client 5/10, id: 57
+round 209, starting client 6/10, id: 5
+round 209, starting client 7/10, id: 28
+round 209, starting client 8/10, id: 81
+round 209, starting client 9/10, id: 15
+round 209, starting client 10/10, id: 47
+round 209, validation acc: 0.9588
+starting round 210
+clients:  [96 57 26 89 59 55 93 94 46 95]
+round 210, starting client 1/10, id: 96
+round 210, starting client 2/10, id: 57
+round 210, starting client 3/10, id: 26
+round 210, starting client 4/10, id: 89
+round 210, starting client 5/10, id: 59
+round 210, starting client 6/10, id: 55
+round 210, starting client 7/10, id: 93
+round 210, starting client 8/10, id: 94
+round 210, starting client 9/10, id: 46
+round 210, starting client 10/10, id: 95
+round 210, validation acc: 0.9611
+starting round 211
+clients:  [63  5 57 48 40 81 64 11 96 45]
+round 211, starting client 1/10, id: 63
+round 211, starting client 2/10, id: 5
+round 211, starting client 3/10, id: 57
+round 211, starting client 4/10, id: 48
+round 211, starting client 5/10, id: 40
+round 211, starting client 6/10, id: 81
+round 211, starting client 7/10, id: 64
+round 211, starting client 8/10, id: 11
+round 211, starting client 9/10, id: 96
+round 211, starting client 10/10, id: 45
+round 211, validation acc: 0.9565
+starting round 212
+clients:  [40 86 91 38 67 21 87 15  9  2]
+round 212, starting client 1/10, id: 40
+round 212, starting client 2/10, id: 86
+round 212, starting client 3/10, id: 91
+round 212, starting client 4/10, id: 38
+round 212, starting client 5/10, id: 67
+round 212, starting client 6/10, id: 21
+round 212, starting client 7/10, id: 87
+round 212, starting client 8/10, id: 15
+round 212, starting client 9/10, id: 9
+round 212, starting client 10/10, id: 2
+round 212, validation acc: 0.9652
+starting round 213
+clients:  [89 69 18 71 84 95  9 25  5 29]
+round 213, starting client 1/10, id: 89
+round 213, starting client 2/10, id: 69
+round 213, starting client 3/10, id: 18
+round 213, starting client 4/10, id: 71
+round 213, starting client 5/10, id: 84
+round 213, starting client 6/10, id: 95
+round 213, starting client 7/10, id: 9
+round 213, starting client 8/10, id: 25
+round 213, starting client 9/10, id: 5
+round 213, starting client 10/10, id: 29
+round 213, validation acc: 0.9625
+starting round 214
+clients:  [39 19 26 31 23 59 40 13 94  4]
+round 214, starting client 1/10, id: 39
+round 214, starting client 2/10, id: 19
+round 214, starting client 3/10, id: 26
+round 214, starting client 4/10, id: 31
+round 214, starting client 5/10, id: 23
+round 214, starting client 6/10, id: 59
+round 214, starting client 7/10, id: 40
+round 214, starting client 8/10, id: 13
+round 214, starting client 9/10, id: 94
+round 214, starting client 10/10, id: 4
+round 214, validation acc: 0.966
+starting round 215
+clients:  [95 67 33 41 92 50 81 86 88 42]
+round 215, starting client 1/10, id: 95
+round 215, starting client 2/10, id: 67
+round 215, starting client 3/10, id: 33
+round 215, starting client 4/10, id: 41
+round 215, starting client 5/10, id: 92
+round 215, starting client 6/10, id: 50
+round 215, starting client 7/10, id: 81
+round 215, starting client 8/10, id: 86
+round 215, starting client 9/10, id: 88
+round 215, starting client 10/10, id: 42
+round 215, validation acc: 0.959
+starting round 216
+clients:  [51 19 66  6 59 10 75 43 45 97]
+round 216, starting client 1/10, id: 51
+round 216, starting client 2/10, id: 19
+round 216, starting client 3/10, id: 66
+round 216, starting client 4/10, id: 6
+round 216, starting client 5/10, id: 59
+round 216, starting client 6/10, id: 10
+round 216, starting client 7/10, id: 75
+round 216, starting client 8/10, id: 43
+round 216, starting client 9/10, id: 45
+round 216, starting client 10/10, id: 97
+round 216, validation acc: 0.9459
+starting round 217
+clients:  [19 78 98 49 39 66 45 29 40 72]
+round 217, starting client 1/10, id: 19
+round 217, starting client 2/10, id: 78
+round 217, starting client 3/10, id: 98
+round 217, starting client 4/10, id: 49
+round 217, starting client 5/10, id: 39
+round 217, starting client 6/10, id: 66
+round 217, starting client 7/10, id: 45
+round 217, starting client 8/10, id: 29
+round 217, starting client 9/10, id: 40
+round 217, starting client 10/10, id: 72
+round 217, validation acc: 0.966
+starting round 218
+clients:  [70 25 17 37 89  7 26 41 22 56]
+round 218, starting client 1/10, id: 70
+round 218, starting client 2/10, id: 25
+round 218, starting client 3/10, id: 17
+round 218, starting client 4/10, id: 37
+round 218, starting client 5/10, id: 89
+round 218, starting client 6/10, id: 7
+round 218, starting client 7/10, id: 26
+round 218, starting client 8/10, id: 41
+round 218, starting client 9/10, id: 22
+round 218, starting client 10/10, id: 56
+round 218, validation acc: 0.9685
+starting round 219
+clients:  [84 35 10 26 31 49 47 56 61 50]
+round 219, starting client 1/10, id: 84
+round 219, starting client 2/10, id: 35
+round 219, starting client 3/10, id: 10
+round 219, starting client 4/10, id: 26
+round 219, starting client 5/10, id: 31
+round 219, starting client 6/10, id: 49
+round 219, starting client 7/10, id: 47
+round 219, starting client 8/10, id: 56
+round 219, starting client 9/10, id: 61
+round 219, starting client 10/10, id: 50
+round 219, validation acc: 0.9672
+starting round 220
+clients:  [26  0 53 11  3 22 23 67 36 87]
+round 220, starting client 1/10, id: 26
+round 220, starting client 2/10, id: 0
+round 220, starting client 3/10, id: 53
+round 220, starting client 4/10, id: 11
+round 220, starting client 5/10, id: 3
+round 220, starting client 6/10, id: 22
+round 220, starting client 7/10, id: 23
+round 220, starting client 8/10, id: 67
+round 220, starting client 9/10, id: 36
+round 220, starting client 10/10, id: 87
+round 220, validation acc: 0.9677
+starting round 221
+clients:  [81 45 84 87 62 55 65 51 22 68]
+round 221, starting client 1/10, id: 81
+round 221, starting client 2/10, id: 45
+round 221, starting client 3/10, id: 84
+round 221, starting client 4/10, id: 87
+round 221, starting client 5/10, id: 62
+round 221, starting client 6/10, id: 55
+round 221, starting client 7/10, id: 65
+round 221, starting client 8/10, id: 51
+round 221, starting client 9/10, id: 22
+round 221, starting client 10/10, id: 68
+round 221, validation acc: 0.9659
+starting round 222
+clients:  [77 62 49 48 34  8  0 29 50 69]
+round 222, starting client 1/10, id: 77
+round 222, starting client 2/10, id: 62
+round 222, starting client 3/10, id: 49
+round 222, starting client 4/10, id: 48
+round 222, starting client 5/10, id: 34
+round 222, starting client 6/10, id: 8
+round 222, starting client 7/10, id: 0
+round 222, starting client 8/10, id: 29
+round 222, starting client 9/10, id: 50
+round 222, starting client 10/10, id: 69
+round 222, validation acc: 0.9648
+starting round 223
+clients:  [ 5 24  7 49 92 11 79 67 59 30]
+round 223, starting client 1/10, id: 5
+round 223, starting client 2/10, id: 24
+round 223, starting client 3/10, id: 7
+round 223, starting client 4/10, id: 49
+round 223, starting client 5/10, id: 92
+round 223, starting client 6/10, id: 11
+round 223, starting client 7/10, id: 79
+round 223, starting client 8/10, id: 67
+round 223, starting client 9/10, id: 59
+round 223, starting client 10/10, id: 30
+round 223, validation acc: 0.9655
+starting round 224
+clients:  [73 10 62 87 37 55 98 64 18  1]
+round 224, starting client 1/10, id: 73
+round 224, starting client 2/10, id: 10
+round 224, starting client 3/10, id: 62
+round 224, starting client 4/10, id: 87
+round 224, starting client 5/10, id: 37
+round 224, starting client 6/10, id: 55
+round 224, starting client 7/10, id: 98
+round 224, starting client 8/10, id: 64
+round 224, starting client 9/10, id: 18
+round 224, starting client 10/10, id: 1
+round 224, validation acc: 0.9694
+starting round 225
+clients:  [ 9 45 59 25 82 32 74 66 51 97]
+round 225, starting client 1/10, id: 9
+round 225, starting client 2/10, id: 45
+round 225, starting client 3/10, id: 59
+round 225, starting client 4/10, id: 25
+round 225, starting client 5/10, id: 82
+round 225, starting client 6/10, id: 32
+round 225, starting client 7/10, id: 74
+round 225, starting client 8/10, id: 66
+round 225, starting client 9/10, id: 51
+round 225, starting client 10/10, id: 97
+round 225, validation acc: 0.9629
+starting round 226
+clients:  [33 60 49 83 74 79 48 14 97 63]
+round 226, starting client 1/10, id: 33
+round 226, starting client 2/10, id: 60
+round 226, starting client 3/10, id: 49
+round 226, starting client 4/10, id: 83
+round 226, starting client 5/10, id: 74
+round 226, starting client 6/10, id: 79
+round 226, starting client 7/10, id: 48
+round 226, starting client 8/10, id: 14
+round 226, starting client 9/10, id: 97
+round 226, starting client 10/10, id: 63
+round 226, validation acc: 0.9667
+starting round 227
+clients:  [57 83 77 86 70 17 44  6 84 10]
+round 227, starting client 1/10, id: 57
+round 227, starting client 2/10, id: 83
+round 227, starting client 3/10, id: 77
+round 227, starting client 4/10, id: 86
+round 227, starting client 5/10, id: 70
+round 227, starting client 6/10, id: 17
+round 227, starting client 7/10, id: 44
+round 227, starting client 8/10, id: 6
+round 227, starting client 9/10, id: 84
+round 227, starting client 10/10, id: 10
+round 227, validation acc: 0.9593
+starting round 228
+clients:  [58 26 45 16  8 13 50 49 64 60]
+round 228, starting client 1/10, id: 58
+round 228, starting client 2/10, id: 26
+round 228, starting client 3/10, id: 45
+round 228, starting client 4/10, id: 16
+round 228, starting client 5/10, id: 8
+round 228, starting client 6/10, id: 13
+round 228, starting client 7/10, id: 50
+round 228, starting client 8/10, id: 49
+round 228, starting client 9/10, id: 64
+round 228, starting client 10/10, id: 60
+round 228, validation acc: 0.9696
+starting round 229
+clients:  [27 35  4 25 83  5 39 31 24 52]
+round 229, starting client 1/10, id: 27
+round 229, starting client 2/10, id: 35
+round 229, starting client 3/10, id: 4
+round 229, starting client 4/10, id: 25
+round 229, starting client 5/10, id: 83
+round 229, starting client 6/10, id: 5
+round 229, starting client 7/10, id: 39
+round 229, starting client 8/10, id: 31
+round 229, starting client 9/10, id: 24
+round 229, starting client 10/10, id: 52
+round 229, validation acc: 0.9698
+starting round 230
+clients:  [47 42 98 69 53 61 90 38 59 67]
+round 230, starting client 1/10, id: 47
+round 230, starting client 2/10, id: 42
+round 230, starting client 3/10, id: 98
+round 230, starting client 4/10, id: 69
+round 230, starting client 5/10, id: 53
+round 230, starting client 6/10, id: 61
+round 230, starting client 7/10, id: 90
+round 230, starting client 8/10, id: 38
+round 230, starting client 9/10, id: 59
+round 230, starting client 10/10, id: 67
+round 230, validation acc: 0.9654
+starting round 231
+clients:  [ 5 36 62 29  3 60 39 49 48 67]
+round 231, starting client 1/10, id: 5
+round 231, starting client 2/10, id: 36
+round 231, starting client 3/10, id: 62
+round 231, starting client 4/10, id: 29
+round 231, starting client 5/10, id: 3
+round 231, starting client 6/10, id: 60
+round 231, starting client 7/10, id: 39
+round 231, starting client 8/10, id: 49
+round 231, starting client 9/10, id: 48
+round 231, starting client 10/10, id: 67
+round 231, validation acc: 0.9621
+starting round 232
+clients:  [90 99 86 33  5 79 73 13 68 67]
+round 232, starting client 1/10, id: 90
+round 232, starting client 2/10, id: 99
+round 232, starting client 3/10, id: 86
+round 232, starting client 4/10, id: 33
+round 232, starting client 5/10, id: 5
+round 232, starting client 6/10, id: 79
+round 232, starting client 7/10, id: 73
+round 232, starting client 8/10, id: 13
+round 232, starting client 9/10, id: 68
+round 232, starting client 10/10, id: 67
+round 232, validation acc: 0.9637
+starting round 233
+clients:  [91 97 26 72 40  9 64 45 13 17]
+round 233, starting client 1/10, id: 91
+round 233, starting client 2/10, id: 97
+round 233, starting client 3/10, id: 26
+round 233, starting client 4/10, id: 72
+round 233, starting client 5/10, id: 40
+round 233, starting client 6/10, id: 9
+round 233, starting client 7/10, id: 64
+round 233, starting client 8/10, id: 45
+round 233, starting client 9/10, id: 13
+round 233, starting client 10/10, id: 17
+round 233, validation acc: 0.967
+starting round 234
+clients:  [41 65 40 66 52 14 15 36 80 63]
+round 234, starting client 1/10, id: 41
+round 234, starting client 2/10, id: 65
+round 234, starting client 3/10, id: 40
+round 234, starting client 4/10, id: 66
+round 234, starting client 5/10, id: 52
+round 234, starting client 6/10, id: 14
+round 234, starting client 7/10, id: 15
+round 234, starting client 8/10, id: 36
+round 234, starting client 9/10, id: 80
+round 234, starting client 10/10, id: 63
+round 234, validation acc: 0.9681
+starting round 235
+clients:  [92 79 11 47 43 10 49 36 38 41]
+round 235, starting client 1/10, id: 92
+round 235, starting client 2/10, id: 79
+round 235, starting client 3/10, id: 11
+round 235, starting client 4/10, id: 47
+round 235, starting client 5/10, id: 43
+round 235, starting client 6/10, id: 10
+round 235, starting client 7/10, id: 49
+round 235, starting client 8/10, id: 36
+round 235, starting client 9/10, id: 38
+round 235, starting client 10/10, id: 41
+round 235, validation acc: 0.9686
+starting round 236
+clients:  [30 65 80 98 18 66 40 23 82 97]
+round 236, starting client 1/10, id: 30
+round 236, starting client 2/10, id: 65
+round 236, starting client 3/10, id: 80
+round 236, starting client 4/10, id: 98
+round 236, starting client 5/10, id: 18
+round 236, starting client 6/10, id: 66
+round 236, starting client 7/10, id: 40
+round 236, starting client 8/10, id: 23
+round 236, starting client 9/10, id: 82
+round 236, starting client 10/10, id: 97
+round 236, validation acc: 0.9712
+starting round 237
+clients:  [11 72  7  1 98 65 79 18 25 75]
+round 237, starting client 1/10, id: 11
+round 237, starting client 2/10, id: 72
+round 237, starting client 3/10, id: 7
+round 237, starting client 4/10, id: 1
+round 237, starting client 5/10, id: 98
+round 237, starting client 6/10, id: 65
+round 237, starting client 7/10, id: 79
+round 237, starting client 8/10, id: 18
+round 237, starting client 9/10, id: 25
+round 237, starting client 10/10, id: 75
+round 237, validation acc: 0.9711
+starting round 238
+clients:  [89 35 81 55 38 27  0 54 41 73]
+round 238, starting client 1/10, id: 89
+round 238, starting client 2/10, id: 35
+round 238, starting client 3/10, id: 81
+round 238, starting client 4/10, id: 55
+round 238, starting client 5/10, id: 38
+round 238, starting client 6/10, id: 27
+round 238, starting client 7/10, id: 0
+round 238, starting client 8/10, id: 54
+round 238, starting client 9/10, id: 41
+round 238, starting client 10/10, id: 73
+round 238, validation acc: 0.9693
+starting round 239
+clients:  [53 10 78 89 55 67  3 59 42 34]
+round 239, starting client 1/10, id: 53
+round 239, starting client 2/10, id: 10
+round 239, starting client 3/10, id: 78
+round 239, starting client 4/10, id: 89
+round 239, starting client 5/10, id: 55
+round 239, starting client 6/10, id: 67
+round 239, starting client 7/10, id: 3
+round 239, starting client 8/10, id: 59
+round 239, starting client 9/10, id: 42
+round 239, starting client 10/10, id: 34
+round 239, validation acc: 0.9675
+starting round 240
+clients:  [31 42 48  4 85 94 91 82 44 45]
+round 240, starting client 1/10, id: 31
+round 240, starting client 2/10, id: 42
+round 240, starting client 3/10, id: 48
+round 240, starting client 4/10, id: 4
+round 240, starting client 5/10, id: 85
+round 240, starting client 6/10, id: 94
+round 240, starting client 7/10, id: 91
+round 240, starting client 8/10, id: 82
+round 240, starting client 9/10, id: 44
+round 240, starting client 10/10, id: 45
+round 240, validation acc: 0.9654
+starting round 241
+clients:  [73  6 22 17 75 66 43 41 59 24]
+round 241, starting client 1/10, id: 73
+round 241, starting client 2/10, id: 6
+round 241, starting client 3/10, id: 22
+round 241, starting client 4/10, id: 17
+round 241, starting client 5/10, id: 75
+round 241, starting client 6/10, id: 66
+round 241, starting client 7/10, id: 43
+round 241, starting client 8/10, id: 41
+round 241, starting client 9/10, id: 59
+round 241, starting client 10/10, id: 24
+round 241, validation acc: 0.9669
+starting round 242
+clients:  [16 41 52 55 99 58 12 13 28 87]
+round 242, starting client 1/10, id: 16
+round 242, starting client 2/10, id: 41
+round 242, starting client 3/10, id: 52
+round 242, starting client 4/10, id: 55
+round 242, starting client 5/10, id: 99
+round 242, starting client 6/10, id: 58
+round 242, starting client 7/10, id: 12
+round 242, starting client 8/10, id: 13
+round 242, starting client 9/10, id: 28
+round 242, starting client 10/10, id: 87
+round 242, validation acc: 0.9703
+starting round 243
+clients:  [53 95  5 54 67 65 50 35 43 13]
+round 243, starting client 1/10, id: 53
+round 243, starting client 2/10, id: 95
+round 243, starting client 3/10, id: 5
+round 243, starting client 4/10, id: 54
+round 243, starting client 5/10, id: 67
+round 243, starting client 6/10, id: 65
+round 243, starting client 7/10, id: 50
+round 243, starting client 8/10, id: 35
+round 243, starting client 9/10, id: 43
+round 243, starting client 10/10, id: 13
+round 243, validation acc: 0.9673
+starting round 244
+clients:  [20 29 58 53 49  0 89  7 69 13]
+round 244, starting client 1/10, id: 20
+round 244, starting client 2/10, id: 29
+round 244, starting client 3/10, id: 58
+round 244, starting client 4/10, id: 53
+round 244, starting client 5/10, id: 49
+round 244, starting client 6/10, id: 0
+round 244, starting client 7/10, id: 89
+round 244, starting client 8/10, id: 7
+round 244, starting client 9/10, id: 69
+round 244, starting client 10/10, id: 13
+round 244, validation acc: 0.9702
+starting round 245
+clients:  [94 86 72  0 88 34 60 16 30 40]
+round 245, starting client 1/10, id: 94
+round 245, starting client 2/10, id: 86
+round 245, starting client 3/10, id: 72
+round 245, starting client 4/10, id: 0
+round 245, starting client 5/10, id: 88
+round 245, starting client 6/10, id: 34
+round 245, starting client 7/10, id: 60
+round 245, starting client 8/10, id: 16
+round 245, starting client 9/10, id: 30
+round 245, starting client 10/10, id: 40
+round 245, validation acc: 0.9691
+starting round 246
+clients:  [84 34 98 78 96 90 93 71 92 60]
+round 246, starting client 1/10, id: 84
+round 246, starting client 2/10, id: 34
+round 246, starting client 3/10, id: 98
+round 246, starting client 4/10, id: 78
+round 246, starting client 5/10, id: 96
+round 246, starting client 6/10, id: 90
+round 246, starting client 7/10, id: 93
+round 246, starting client 8/10, id: 71
+round 246, starting client 9/10, id: 92
+round 246, starting client 10/10, id: 60
+round 246, validation acc: 0.9711
+starting round 247
+clients:  [92 98 37 57 29  4 28 93 17  8]
+round 247, starting client 1/10, id: 92
+round 247, starting client 2/10, id: 98
+round 247, starting client 3/10, id: 37
+round 247, starting client 4/10, id: 57
+round 247, starting client 5/10, id: 29
+round 247, starting client 6/10, id: 4
+round 247, starting client 7/10, id: 28
+round 247, starting client 8/10, id: 93
+round 247, starting client 9/10, id: 17
+round 247, starting client 10/10, id: 8
+round 247, validation acc: 0.9704
+starting round 248
+clients:  [23 58 40 51 63 73 26 69 85 30]
+round 248, starting client 1/10, id: 23
+round 248, starting client 2/10, id: 58
+round 248, starting client 3/10, id: 40
+round 248, starting client 4/10, id: 51
+round 248, starting client 5/10, id: 63
+round 248, starting client 6/10, id: 73
+round 248, starting client 7/10, id: 26
+round 248, starting client 8/10, id: 69
+round 248, starting client 9/10, id: 85
+round 248, starting client 10/10, id: 30
+round 248, validation acc: 0.9714
+starting round 249
+clients:  [51 42 81 32  3 83 69 74 43 36]
+round 249, starting client 1/10, id: 51
+round 249, starting client 2/10, id: 42
+round 249, starting client 3/10, id: 81
+round 249, starting client 4/10, id: 32
+round 249, starting client 5/10, id: 3
+round 249, starting client 6/10, id: 83
+round 249, starting client 7/10, id: 69
+round 249, starting client 8/10, id: 74
+round 249, starting client 9/10, id: 43
+round 249, starting client 10/10, id: 36
+round 249, validation acc: 0.9676
+starting round 250
+clients:  [81 55 56  2 41 10 68  1 76 28]
+round 250, starting client 1/10, id: 81
+round 250, starting client 2/10, id: 55
+round 250, starting client 3/10, id: 56
+round 250, starting client 4/10, id: 2
+round 250, starting client 5/10, id: 41
+round 250, starting client 6/10, id: 10
+round 250, starting client 7/10, id: 68
+round 250, starting client 8/10, id: 1
+round 250, starting client 9/10, id: 76
+round 250, starting client 10/10, id: 28
+round 250, validation acc: 0.9665
+starting round 251
+clients:  [14 66 69 42 74 97 58 15  3 49]
+round 251, starting client 1/10, id: 14
+round 251, starting client 2/10, id: 66
+round 251, starting client 3/10, id: 69
+round 251, starting client 4/10, id: 42
+round 251, starting client 5/10, id: 74
+round 251, starting client 6/10, id: 97
+round 251, starting client 7/10, id: 58
+round 251, starting client 8/10, id: 15
+round 251, starting client 9/10, id: 3
+round 251, starting client 10/10, id: 49
+round 251, validation acc: 0.967
+starting round 252
+clients:  [77 54 82 88 85 91 36  2 89 12]
+round 252, starting client 1/10, id: 77
+round 252, starting client 2/10, id: 54
+round 252, starting client 3/10, id: 82
+round 252, starting client 4/10, id: 88
+round 252, starting client 5/10, id: 85
+round 252, starting client 6/10, id: 91
+round 252, starting client 7/10, id: 36
+round 252, starting client 8/10, id: 2
+round 252, starting client 9/10, id: 89
+round 252, starting client 10/10, id: 12
+round 252, validation acc: 0.971
+starting round 253
+clients:  [99 66 79 73 75 57 77 36 68 76]
+round 253, starting client 1/10, id: 99
+round 253, starting client 2/10, id: 66
+round 253, starting client 3/10, id: 79
+round 253, starting client 4/10, id: 73
+round 253, starting client 5/10, id: 75
+round 253, starting client 6/10, id: 57
+round 253, starting client 7/10, id: 77
+round 253, starting client 8/10, id: 36
+round 253, starting client 9/10, id: 68
+round 253, starting client 10/10, id: 76
+round 253, validation acc: 0.9685
+starting round 254
+clients:  [98 94 79 46 77 84 49 30 32  7]
+round 254, starting client 1/10, id: 98
+round 254, starting client 2/10, id: 94
+round 254, starting client 3/10, id: 79
+round 254, starting client 4/10, id: 46
+round 254, starting client 5/10, id: 77
+round 254, starting client 6/10, id: 84
+round 254, starting client 7/10, id: 49
+round 254, starting client 8/10, id: 30
+round 254, starting client 9/10, id: 32
+round 254, starting client 10/10, id: 7
+round 254, validation acc: 0.9706
+starting round 255
+clients:  [33 98 46 34 87 72 81 55  3  7]
+round 255, starting client 1/10, id: 33
+round 255, starting client 2/10, id: 98
+round 255, starting client 3/10, id: 46
+round 255, starting client 4/10, id: 34
+round 255, starting client 5/10, id: 87
+round 255, starting client 6/10, id: 72
+round 255, starting client 7/10, id: 81
+round 255, starting client 8/10, id: 55
+round 255, starting client 9/10, id: 3
+round 255, starting client 10/10, id: 7
+round 255, validation acc: 0.97
+starting round 256
+clients:  [35 12 50 22 34 33 57 42 73 84]
+round 256, starting client 1/10, id: 35
+round 256, starting client 2/10, id: 12
+round 256, starting client 3/10, id: 50
+round 256, starting client 4/10, id: 22
+round 256, starting client 5/10, id: 34
+round 256, starting client 6/10, id: 33
+round 256, starting client 7/10, id: 57
+round 256, starting client 8/10, id: 42
+round 256, starting client 9/10, id: 73
+round 256, starting client 10/10, id: 84
+round 256, validation acc: 0.9718
+starting round 257
+clients:  [41  9 16  5 27 71 83 55 33 97]
+round 257, starting client 1/10, id: 41
+round 257, starting client 2/10, id: 9
+round 257, starting client 3/10, id: 16
+round 257, starting client 4/10, id: 5
+round 257, starting client 5/10, id: 27
+round 257, starting client 6/10, id: 71
+round 257, starting client 7/10, id: 83
+round 257, starting client 8/10, id: 55
+round 257, starting client 9/10, id: 33
+round 257, starting client 10/10, id: 97
+round 257, validation acc: 0.9678
+starting round 258
+clients:  [55 47 26 44 22 85 38 66 77 95]
+round 258, starting client 1/10, id: 55
+round 258, starting client 2/10, id: 47
+round 258, starting client 3/10, id: 26
+round 258, starting client 4/10, id: 44
+round 258, starting client 5/10, id: 22
+round 258, starting client 6/10, id: 85
+round 258, starting client 7/10, id: 38
+round 258, starting client 8/10, id: 66
+round 258, starting client 9/10, id: 77
+round 258, starting client 10/10, id: 95
+round 258, validation acc: 0.972
+starting round 259
+clients:  [88 47 25 52 53  2  4 98 85  8]
+round 259, starting client 1/10, id: 88
+round 259, starting client 2/10, id: 47
+round 259, starting client 3/10, id: 25
+round 259, starting client 4/10, id: 52
+round 259, starting client 5/10, id: 53
+round 259, starting client 6/10, id: 2
+round 259, starting client 7/10, id: 4
+round 259, starting client 8/10, id: 98
+round 259, starting client 9/10, id: 85
+round 259, starting client 10/10, id: 8
+round 259, validation acc: 0.9697
+starting round 260
+clients:  [ 8 96 81 10 16 38 52  1 53 57]
+round 260, starting client 1/10, id: 8
+round 260, starting client 2/10, id: 96
+round 260, starting client 3/10, id: 81
+round 260, starting client 4/10, id: 10
+round 260, starting client 5/10, id: 16
+round 260, starting client 6/10, id: 38
+round 260, starting client 7/10, id: 52
+round 260, starting client 8/10, id: 1
+round 260, starting client 9/10, id: 53
+round 260, starting client 10/10, id: 57
+round 260, validation acc: 0.9701
+starting round 261
+clients:  [43 92 15 48 91 82 86 63 77  2]
+round 261, starting client 1/10, id: 43
+round 261, starting client 2/10, id: 92
+round 261, starting client 3/10, id: 15
+round 261, starting client 4/10, id: 48
+round 261, starting client 5/10, id: 91
+round 261, starting client 6/10, id: 82
+round 261, starting client 7/10, id: 86
+round 261, starting client 8/10, id: 63
+round 261, starting client 9/10, id: 77
+round 261, starting client 10/10, id: 2
+round 261, validation acc: 0.9699
+starting round 262
+clients:  [33 35  4 22 86 82 77 40 88 51]
+round 262, starting client 1/10, id: 33
+round 262, starting client 2/10, id: 35
+round 262, starting client 3/10, id: 4
+round 262, starting client 4/10, id: 22
+round 262, starting client 5/10, id: 86
+round 262, starting client 6/10, id: 82
+round 262, starting client 7/10, id: 77
+round 262, starting client 8/10, id: 40
+round 262, starting client 9/10, id: 88
+round 262, starting client 10/10, id: 51
+round 262, validation acc: 0.9691
+starting round 263
+clients:  [38 33 12 79 75 65 28 78 73 94]
+round 263, starting client 1/10, id: 38
+round 263, starting client 2/10, id: 33
+round 263, starting client 3/10, id: 12
+round 263, starting client 4/10, id: 79
+round 263, starting client 5/10, id: 75
+round 263, starting client 6/10, id: 65
+round 263, starting client 7/10, id: 28
+round 263, starting client 8/10, id: 78
+round 263, starting client 9/10, id: 73
+round 263, starting client 10/10, id: 94
+round 263, validation acc: 0.9708
+starting round 264
+clients:  [18 68 96 82 86 46 40 76 98 93]
+round 264, starting client 1/10, id: 18
+round 264, starting client 2/10, id: 68
+round 264, starting client 3/10, id: 96
+round 264, starting client 4/10, id: 82
+round 264, starting client 5/10, id: 86
+round 264, starting client 6/10, id: 46
+round 264, starting client 7/10, id: 40
+round 264, starting client 8/10, id: 76
+round 264, starting client 9/10, id: 98
+round 264, starting client 10/10, id: 93
+round 264, validation acc: 0.966
+starting round 265
+clients:  [67 34 31 30 80 33 26  4 96 12]
+round 265, starting client 1/10, id: 67
+round 265, starting client 2/10, id: 34
+round 265, starting client 3/10, id: 31
+round 265, starting client 4/10, id: 30
+round 265, starting client 5/10, id: 80
+round 265, starting client 6/10, id: 33
+round 265, starting client 7/10, id: 26
+round 265, starting client 8/10, id: 4
+round 265, starting client 9/10, id: 96
+round 265, starting client 10/10, id: 12
+round 265, validation acc: 0.9675
+starting round 266
+clients:  [72 15 47 91 35 52 85 86 31 24]
+round 266, starting client 1/10, id: 72
+round 266, starting client 2/10, id: 15
+round 266, starting client 3/10, id: 47
+round 266, starting client 4/10, id: 91
+round 266, starting client 5/10, id: 35
+round 266, starting client 6/10, id: 52
+round 266, starting client 7/10, id: 85
+round 266, starting client 8/10, id: 86
+round 266, starting client 9/10, id: 31
+round 266, starting client 10/10, id: 24
+round 266, validation acc: 0.9695
+starting round 267
+clients:  [41 84 69 20 74 73 92 46 31 78]
+round 267, starting client 1/10, id: 41
+round 267, starting client 2/10, id: 84
+round 267, starting client 3/10, id: 69
+round 267, starting client 4/10, id: 20
+round 267, starting client 5/10, id: 74
+round 267, starting client 6/10, id: 73
+round 267, starting client 7/10, id: 92
+round 267, starting client 8/10, id: 46
+round 267, starting client 9/10, id: 31
+round 267, starting client 10/10, id: 78
+round 267, validation acc: 0.9727
+starting round 268
+clients:  [99 77 17 43 68 86 19 36 44 91]
+round 268, starting client 1/10, id: 99
+round 268, starting client 2/10, id: 77
+round 268, starting client 3/10, id: 17
+round 268, starting client 4/10, id: 43
+round 268, starting client 5/10, id: 68
+round 268, starting client 6/10, id: 86
+round 268, starting client 7/10, id: 19
+round 268, starting client 8/10, id: 36
+round 268, starting client 9/10, id: 44
+round 268, starting client 10/10, id: 91
+round 268, validation acc: 0.9693
+starting round 269
+clients:  [90 16  6 61 37 86 28 55 82 57]
+round 269, starting client 1/10, id: 90
+round 269, starting client 2/10, id: 16
+round 269, starting client 3/10, id: 6
+round 269, starting client 4/10, id: 61
+round 269, starting client 5/10, id: 37
+round 269, starting client 6/10, id: 86
+round 269, starting client 7/10, id: 28
+round 269, starting client 8/10, id: 55
+round 269, starting client 9/10, id: 82
+round 269, starting client 10/10, id: 57
+round 269, validation acc: 0.9716
+starting round 270
+clients:  [19 11 37 17 29 33 53 90 77 44]
+round 270, starting client 1/10, id: 19
+round 270, starting client 2/10, id: 11
+round 270, starting client 3/10, id: 37
+round 270, starting client 4/10, id: 17
+round 270, starting client 5/10, id: 29
+round 270, starting client 6/10, id: 33
+round 270, starting client 7/10, id: 53
+round 270, starting client 8/10, id: 90
+round 270, starting client 9/10, id: 77
+round 270, starting client 10/10, id: 44
+round 270, validation acc: 0.9714
+starting round 271
+clients:  [77 68 74  0 35 96 87 84 67  9]
+round 271, starting client 1/10, id: 77
+round 271, starting client 2/10, id: 68
+round 271, starting client 3/10, id: 74
+round 271, starting client 4/10, id: 0
+round 271, starting client 5/10, id: 35
+round 271, starting client 6/10, id: 96
+round 271, starting client 7/10, id: 87
+round 271, starting client 8/10, id: 84
+round 271, starting client 9/10, id: 67
+round 271, starting client 10/10, id: 9
+round 271, validation acc: 0.9711
+starting round 272
+clients:  [40 23 61 17 79 67 57 91 84 56]
+round 272, starting client 1/10, id: 40
+round 272, starting client 2/10, id: 23
+round 272, starting client 3/10, id: 61
+round 272, starting client 4/10, id: 17
+round 272, starting client 5/10, id: 79
+round 272, starting client 6/10, id: 67
+round 272, starting client 7/10, id: 57
+round 272, starting client 8/10, id: 91
+round 272, starting client 9/10, id: 84
+round 272, starting client 10/10, id: 56
+round 272, validation acc: 0.9687
+starting round 273
+clients:  [83 87 10 74 20  0 51 68 15 11]
+round 273, starting client 1/10, id: 83
+round 273, starting client 2/10, id: 87
+round 273, starting client 3/10, id: 10
+round 273, starting client 4/10, id: 74
+round 273, starting client 5/10, id: 20
+round 273, starting client 6/10, id: 0
+round 273, starting client 7/10, id: 51
+round 273, starting client 8/10, id: 68
+round 273, starting client 9/10, id: 15
+round 273, starting client 10/10, id: 11
+round 273, validation acc: 0.97
+starting round 274
+clients:  [66 64 37 60 21  0 16 61 42 86]
+round 274, starting client 1/10, id: 66
+round 274, starting client 2/10, id: 64
+round 274, starting client 3/10, id: 37
+round 274, starting client 4/10, id: 60
+round 274, starting client 5/10, id: 21
+round 274, starting client 6/10, id: 0
+round 274, starting client 7/10, id: 16
+round 274, starting client 8/10, id: 61
+round 274, starting client 9/10, id: 42
+round 274, starting client 10/10, id: 86
+round 274, validation acc: 0.9711
+starting round 275
+clients:  [19 22 29 54 24 35  6 26 77  7]
+round 275, starting client 1/10, id: 19
+round 275, starting client 2/10, id: 22
+round 275, starting client 3/10, id: 29
+round 275, starting client 4/10, id: 54
+round 275, starting client 5/10, id: 24
+round 275, starting client 6/10, id: 35
+round 275, starting client 7/10, id: 6
+round 275, starting client 8/10, id: 26
+round 275, starting client 9/10, id: 77
+round 275, starting client 10/10, id: 7
+round 275, validation acc: 0.9708
+starting round 276
+clients:  [ 8  2 98 34 40 62 43 69 36 79]
+round 276, starting client 1/10, id: 8
+round 276, starting client 2/10, id: 2
+round 276, starting client 3/10, id: 98
+round 276, starting client 4/10, id: 34
+round 276, starting client 5/10, id: 40
+round 276, starting client 6/10, id: 62
+round 276, starting client 7/10, id: 43
+round 276, starting client 8/10, id: 69
+round 276, starting client 9/10, id: 36
+round 276, starting client 10/10, id: 79
+round 276, validation acc: 0.9709
+starting round 277
+clients:  [57 99 73 41 74 58 51 42 37 69]
+round 277, starting client 1/10, id: 57
+round 277, starting client 2/10, id: 99
+round 277, starting client 3/10, id: 73
+round 277, starting client 4/10, id: 41
+round 277, starting client 5/10, id: 74
+round 277, starting client 6/10, id: 58
+round 277, starting client 7/10, id: 51
+round 277, starting client 8/10, id: 42
+round 277, starting client 9/10, id: 37
+round 277, starting client 10/10, id: 69
+round 277, validation acc: 0.9716
+starting round 278
+clients:  [13 17 38 49 88 33 59 87 83 72]
+round 278, starting client 1/10, id: 13
+round 278, starting client 2/10, id: 17
+round 278, starting client 3/10, id: 38
+round 278, starting client 4/10, id: 49
+round 278, starting client 5/10, id: 88
+round 278, starting client 6/10, id: 33
+round 278, starting client 7/10, id: 59
+round 278, starting client 8/10, id: 87
+round 278, starting client 9/10, id: 83
+round 278, starting client 10/10, id: 72
+round 278, validation acc: 0.9717
+starting round 279
+clients:  [90 27 52 26 64 21 13 47 31 73]
+round 279, starting client 1/10, id: 90
+round 279, starting client 2/10, id: 27
+round 279, starting client 3/10, id: 52
+round 279, starting client 4/10, id: 26
+round 279, starting client 5/10, id: 64
+round 279, starting client 6/10, id: 21
+round 279, starting client 7/10, id: 13
+round 279, starting client 8/10, id: 47
+round 279, starting client 9/10, id: 31
+round 279, starting client 10/10, id: 73
+round 279, validation acc: 0.972
+starting round 280
+clients:  [ 1  6 71 99 43 94 83 17 82 93]
+round 280, starting client 1/10, id: 1
+round 280, starting client 2/10, id: 6
+round 280, starting client 3/10, id: 71
+round 280, starting client 4/10, id: 99
+round 280, starting client 5/10, id: 43
+round 280, starting client 6/10, id: 94
+round 280, starting client 7/10, id: 83
+round 280, starting client 8/10, id: 17
+round 280, starting client 9/10, id: 82
+round 280, starting client 10/10, id: 93
+round 280, validation acc: 0.9692
+starting round 281
+clients:  [47 78 88 33 40 39 28 62 73  2]
+round 281, starting client 1/10, id: 47
+round 281, starting client 2/10, id: 78
+round 281, starting client 3/10, id: 88
+round 281, starting client 4/10, id: 33
+round 281, starting client 5/10, id: 40
+round 281, starting client 6/10, id: 39
+round 281, starting client 7/10, id: 28
+round 281, starting client 8/10, id: 62
+round 281, starting client 9/10, id: 73
+round 281, starting client 10/10, id: 2
+round 281, validation acc: 0.9623
+starting round 282
+clients:  [37 40 36 33  9 73 60  7 14 95]
+round 282, starting client 1/10, id: 37
+round 282, starting client 2/10, id: 40
+round 282, starting client 3/10, id: 36
+round 282, starting client 4/10, id: 33
+round 282, starting client 5/10, id: 9
+round 282, starting client 6/10, id: 73
+round 282, starting client 7/10, id: 60
+round 282, starting client 8/10, id: 7
+round 282, starting client 9/10, id: 14
+round 282, starting client 10/10, id: 95
+round 282, validation acc: 0.9668
+starting round 283
+clients:  [10 31 40 35 82 87 92 34 75 73]
+round 283, starting client 1/10, id: 10
+round 283, starting client 2/10, id: 31
+round 283, starting client 3/10, id: 40
+round 283, starting client 4/10, id: 35
+round 283, starting client 5/10, id: 82
+round 283, starting client 6/10, id: 87
+round 283, starting client 7/10, id: 92
+round 283, starting client 8/10, id: 34
+round 283, starting client 9/10, id: 75
+round 283, starting client 10/10, id: 73
+round 283, validation acc: 0.9634
+starting round 284
+clients:  [74 49 73 66 96 37 27 78 34  6]
+round 284, starting client 1/10, id: 74
+round 284, starting client 2/10, id: 49
+round 284, starting client 3/10, id: 73
+round 284, starting client 4/10, id: 66
+round 284, starting client 5/10, id: 96
+round 284, starting client 6/10, id: 37
+round 284, starting client 7/10, id: 27
+round 284, starting client 8/10, id: 78
+round 284, starting client 9/10, id: 34
+round 284, starting client 10/10, id: 6
+round 284, validation acc: 0.9704
+starting round 285
+clients:  [27 69 43 81 51 18 67 32 86 31]
+round 285, starting client 1/10, id: 27
+round 285, starting client 2/10, id: 69
+round 285, starting client 3/10, id: 43
+round 285, starting client 4/10, id: 81
+round 285, starting client 5/10, id: 51
+round 285, starting client 6/10, id: 18
+round 285, starting client 7/10, id: 67
+round 285, starting client 8/10, id: 32
+round 285, starting client 9/10, id: 86
+round 285, starting client 10/10, id: 31
+round 285, validation acc: 0.9727
+starting round 286
+clients:  [24 83 37 30 91 72 87 59 75 19]
+round 286, starting client 1/10, id: 24
+round 286, starting client 2/10, id: 83
+round 286, starting client 3/10, id: 37
+round 286, starting client 4/10, id: 30
+round 286, starting client 5/10, id: 91
+round 286, starting client 6/10, id: 72
+round 286, starting client 7/10, id: 87
+round 286, starting client 8/10, id: 59
+round 286, starting client 9/10, id: 75
+round 286, starting client 10/10, id: 19
+round 286, validation acc: 0.9718
+starting round 287
+clients:  [27 78 99 37 72 92 88 74 12 42]
+round 287, starting client 1/10, id: 27
+round 287, starting client 2/10, id: 78
+round 287, starting client 3/10, id: 99
+round 287, starting client 4/10, id: 37
+round 287, starting client 5/10, id: 72
+round 287, starting client 6/10, id: 92
+round 287, starting client 7/10, id: 88
+round 287, starting client 8/10, id: 74
+round 287, starting client 9/10, id: 12
+round 287, starting client 10/10, id: 42
+round 287, validation acc: 0.9683
+starting round 288
+clients:  [69 45 65 79 16 10 77 70 49 68]
+round 288, starting client 1/10, id: 69
+round 288, starting client 2/10, id: 45
+round 288, starting client 3/10, id: 65
+round 288, starting client 4/10, id: 79
+round 288, starting client 5/10, id: 16
+round 288, starting client 6/10, id: 10
+round 288, starting client 7/10, id: 77
+round 288, starting client 8/10, id: 70
+round 288, starting client 9/10, id: 49
+round 288, starting client 10/10, id: 68
+round 288, validation acc: 0.9728
+starting round 289
+clients:  [80 14 91 19 49 17 33 11  1 73]
+round 289, starting client 1/10, id: 80
+round 289, starting client 2/10, id: 14
+round 289, starting client 3/10, id: 91
+round 289, starting client 4/10, id: 19
+round 289, starting client 5/10, id: 49
+round 289, starting client 6/10, id: 17
+round 289, starting client 7/10, id: 33
+round 289, starting client 8/10, id: 11
+round 289, starting client 9/10, id: 1
+round 289, starting client 10/10, id: 73
+round 289, validation acc: 0.9716
+starting round 290
+clients:  [20 97 83 71 92 11 53 38 75 48]
+round 290, starting client 1/10, id: 20
+round 290, starting client 2/10, id: 97
+round 290, starting client 3/10, id: 83
+round 290, starting client 4/10, id: 71
+round 290, starting client 5/10, id: 92
+round 290, starting client 6/10, id: 11
+round 290, starting client 7/10, id: 53
+round 290, starting client 8/10, id: 38
+round 290, starting client 9/10, id: 75
+round 290, starting client 10/10, id: 48
+round 290, validation acc: 0.9673
+starting round 291
+clients:  [78 12 22 11 47  6 10 50 75 46]
+round 291, starting client 1/10, id: 78
+round 291, starting client 2/10, id: 12
+round 291, starting client 3/10, id: 22
+round 291, starting client 4/10, id: 11
+round 291, starting client 5/10, id: 47
+round 291, starting client 6/10, id: 6
+round 291, starting client 7/10, id: 10
+round 291, starting client 8/10, id: 50
+round 291, starting client 9/10, id: 75
+round 291, starting client 10/10, id: 46
+round 291, validation acc: 0.9652
+starting round 292
+clients:  [34 48 70 16 55 47 67 69 98  4]
+round 292, starting client 1/10, id: 34
+round 292, starting client 2/10, id: 48
+round 292, starting client 3/10, id: 70
+round 292, starting client 4/10, id: 16
+round 292, starting client 5/10, id: 55
+round 292, starting client 6/10, id: 47
+round 292, starting client 7/10, id: 67
+round 292, starting client 8/10, id: 69
+round 292, starting client 9/10, id: 98
+round 292, starting client 10/10, id: 4
+round 292, validation acc: 0.9717
+starting round 293
+clients:  [27 78 63 96 28 82 10 50 44 95]
+round 293, starting client 1/10, id: 27
+round 293, starting client 2/10, id: 78
+round 293, starting client 3/10, id: 63
+round 293, starting client 4/10, id: 96
+round 293, starting client 5/10, id: 28
+round 293, starting client 6/10, id: 82
+round 293, starting client 7/10, id: 10
+round 293, starting client 8/10, id: 50
+round 293, starting client 9/10, id: 44
+round 293, starting client 10/10, id: 95
+round 293, validation acc: 0.9724
+starting round 294
+clients:  [46 81  2 24 52 57 15  4 33 18]
+round 294, starting client 1/10, id: 46
+round 294, starting client 2/10, id: 81
+round 294, starting client 3/10, id: 2
+round 294, starting client 4/10, id: 24
+round 294, starting client 5/10, id: 52
+round 294, starting client 6/10, id: 57
+round 294, starting client 7/10, id: 15
+round 294, starting client 8/10, id: 4
+round 294, starting client 9/10, id: 33
+round 294, starting client 10/10, id: 18
+round 294, validation acc: 0.9681
+starting round 295
+clients:  [61 27 42  3 96 43 46 86 25 57]
+round 295, starting client 1/10, id: 61
+round 295, starting client 2/10, id: 27
+round 295, starting client 3/10, id: 42
+round 295, starting client 4/10, id: 3
+round 295, starting client 5/10, id: 96
+round 295, starting client 6/10, id: 43
+round 295, starting client 7/10, id: 46
+round 295, starting client 8/10, id: 86
+round 295, starting client 9/10, id: 25
+round 295, starting client 10/10, id: 57
+round 295, validation acc: 0.969
+starting round 296
+clients:  [28 48 89 87  7 66 67 77 59 42]
+round 296, starting client 1/10, id: 28
+round 296, starting client 2/10, id: 48
+round 296, starting client 3/10, id: 89
+round 296, starting client 4/10, id: 87
+round 296, starting client 5/10, id: 7
+round 296, starting client 6/10, id: 66
+round 296, starting client 7/10, id: 67
+round 296, starting client 8/10, id: 77
+round 296, starting client 9/10, id: 59
+round 296, starting client 10/10, id: 42
+round 296, validation acc: 0.9677
+starting round 297
+clients:  [80 16 39 53 54 35  3 58 85 92]
+round 297, starting client 1/10, id: 80
+round 297, starting client 2/10, id: 16
+round 297, starting client 3/10, id: 39
+round 297, starting client 4/10, id: 53
+round 297, starting client 5/10, id: 54
+round 297, starting client 6/10, id: 35
+round 297, starting client 7/10, id: 3
+round 297, starting client 8/10, id: 58
+round 297, starting client 9/10, id: 85
+round 297, starting client 10/10, id: 92
+round 297, validation acc: 0.97
+starting round 298
+clients:  [64 19 98 84 45 65 50 76 17 92]
+round 298, starting client 1/10, id: 64
+round 298, starting client 2/10, id: 19
+round 298, starting client 3/10, id: 98
+round 298, starting client 4/10, id: 84
+round 298, starting client 5/10, id: 45
+round 298, starting client 6/10, id: 65
+round 298, starting client 7/10, id: 50
+round 298, starting client 8/10, id: 76
+round 298, starting client 9/10, id: 17
+round 298, starting client 10/10, id: 92
+round 298, validation acc: 0.9701
+starting round 299
+clients:  [38 69 30 80 98  2  4  1 29 44]
+round 299, starting client 1/10, id: 38
+round 299, starting client 2/10, id: 69
+round 299, starting client 3/10, id: 30
+round 299, starting client 4/10, id: 80
+round 299, starting client 5/10, id: 98
+round 299, starting client 6/10, id: 2
+round 299, starting client 7/10, id: 4
+round 299, starting client 8/10, id: 1
+round 299, starting client 9/10, id: 29
+round 299, starting client 10/10, id: 44
+round 299, validation acc: 0.9729
+[0.3133 0.324  0.345  0.5845 0.5708 0.5973 0.5507 0.5861 0.716  0.719
+ 0.7811 0.7306 0.8016 0.8405 0.7808 0.7702 0.8275 0.8145 0.8326 0.8108
+ 0.8446 0.8392 0.8776 0.8534 0.8826 0.8849 0.8084 0.8496 0.8686 0.8692
+ 0.8846 0.8335 0.9097 0.8807 0.8367 0.9045 0.8922 0.8782 0.8748 0.8857
+ 0.8483 0.9083 0.8828 0.8964 0.8983 0.925  0.9033 0.839  0.919  0.9014
+ 0.9072 0.9058 0.9299 0.9073 0.9152 0.9074 0.9248 0.9338 0.9289 0.9267
+ 0.9395 0.9339 0.9303 0.9239 0.9323 0.9332 0.9257 0.9325 0.9375 0.931
+ 0.9323 0.9404 0.9123 0.9023 0.9185 0.9422 0.9024 0.9261 0.9282 0.9371
+ 0.9376 0.9216 0.9432 0.9388 0.9391 0.9392 0.9413 0.9379 0.9534 0.9156
+ 0.9387 0.9411 0.9448 0.9556 0.953  0.9457 0.9478 0.9463 0.9536 0.9508
+ 0.9475 0.9516 0.9341 0.9509 0.9423 0.9447 0.9529 0.9491 0.9586 0.9551
+ 0.9506 0.9515 0.9579 0.9559 0.9517 0.9437 0.9542 0.9439 0.9458 0.9463
+ 0.9463 0.9358 0.9536 0.9602 0.9426 0.9487 0.9553 0.953  0.9614 0.9562
+ 0.9624 0.9528 0.9613 0.9637 0.9624 0.9479 0.9536 0.9443 0.9464 0.9493
+ 0.9499 0.95   0.9574 0.9508 0.9493 0.9569 0.9633 0.95   0.9444 0.963
+ 0.9638 0.9557 0.9576 0.962  0.9632 0.959  0.9617 0.9585 0.9568 0.9562
+ 0.9586 0.9645 0.9592 0.9609 0.9493 0.9495 0.9608 0.9623 0.9677 0.965
+ 0.964  0.9629 0.9613 0.9653 0.955  0.951  0.9551 0.9619 0.966  0.9685
+ 0.9618 0.9577 0.9579 0.9641 0.9667 0.9598 0.9643 0.9678 0.9664 0.9576
+ 0.9678 0.9666 0.967  0.9678 0.964  0.9669 0.9626 0.9637 0.9618 0.9645
+ 0.9654 0.966  0.9684 0.9596 0.9576 0.9651 0.9645 0.9654 0.9629 0.9588
+ 0.9611 0.9565 0.9652 0.9625 0.966  0.959  0.9459 0.966  0.9685 0.9672
+ 0.9677 0.9659 0.9648 0.9655 0.9694 0.9629 0.9667 0.9593 0.9696 0.9698
+ 0.9654 0.9621 0.9637 0.967  0.9681 0.9686 0.9712 0.9711 0.9693 0.9675
+ 0.9654 0.9669 0.9703 0.9673 0.9702 0.9691 0.9711 0.9704 0.9714 0.9676
+ 0.9665 0.967  0.971  0.9685 0.9706 0.97   0.9718 0.9678 0.972  0.9697
+ 0.9701 0.9699 0.9691 0.9708 0.966  0.9675 0.9695 0.9727 0.9693 0.9716
+ 0.9714 0.9711 0.9687 0.97   0.9711 0.9708 0.9709 0.9716 0.9717 0.972
+ 0.9692 0.9623 0.9668 0.9634 0.9704 0.9727 0.9718 0.9683 0.9728 0.9716
+ 0.9673 0.9652 0.9717 0.9724 0.9681 0.969  0.9677 0.97   0.9701 0.9729]
