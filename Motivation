@@ -1,1 +1,1 @@
-
+Federated learning is widely adopted in privacy-sensitive applications such as healthcare analytics, smart devices, and autonomous systems. However, real-world data is often non-IID, causing models to favor certain clients over others. This project is motivated by the need to understand and reduce such bias to ensure equitable performance across all participating clients.
